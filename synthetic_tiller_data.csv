@@ -1,0 +1,2001 @@
+Sample_ID,Question,Answer,Label
+1,Are the stems (tillers) shorter than usual?,0,0
+1,Do you smell any unusual or rotten odor near the plant base?,1,0
+1,Can you easily pull the roots out of the soil?,1,0
+1,Are you noticing yellowing on the lower stems?,0,0
+1,Do the tillers appear dry or brittle?,1,0
+1,Is there a soft mushy texture near the base of the stem?,0,0
+1,Are any of the tillers wilted or drooping?,1,0
+1,Do you see any black or brown spots on the stem?,0,0
+1,Are ants or other insects more active around the tiller base?,1,0
+1,Has the tiller growth slowed down recently?,0,0
+2,Are the stems (tillers) shorter than usual?,0,1
+2,Do you smell any unusual or rotten odor near the plant base?,0,1
+2,Can you easily pull the roots out of the soil?,1,1
+2,Are you noticing yellowing on the lower stems?,1,1
+2,Do the tillers appear dry or brittle?,1,1
+2,Is there a soft mushy texture near the base of the stem?,0,1
+2,Are any of the tillers wilted or drooping?,1,1
+2,Do you see any black or brown spots on the stem?,0,1
+2,Are ants or other insects more active around the tiller base?,0,1
+2,Has the tiller growth slowed down recently?,1,1
+3,Are the stems (tillers) shorter than usual?,1,1
+3,Do you smell any unusual or rotten odor near the plant base?,1,1
+3,Can you easily pull the roots out of the soil?,1,1
+3,Are you noticing yellowing on the lower stems?,1,1
+3,Do the tillers appear dry or brittle?,1,1
+3,Is there a soft mushy texture near the base of the stem?,0,1
+3,Are any of the tillers wilted or drooping?,1,1
+3,Do you see any black or brown spots on the stem?,1,1
+3,Are ants or other insects more active around the tiller base?,1,1
+3,Has the tiller growth slowed down recently?,0,1
+4,Are the stems (tillers) shorter than usual?,1,1
+4,Do you smell any unusual or rotten odor near the plant base?,0,1
+4,Can you easily pull the roots out of the soil?,1,1
+4,Are you noticing yellowing on the lower stems?,0,1
+4,Do the tillers appear dry or brittle?,0,1
+4,Is there a soft mushy texture near the base of the stem?,0,1
+4,Are any of the tillers wilted or drooping?,1,1
+4,Do you see any black or brown spots on the stem?,1,1
+4,Are ants or other insects more active around the tiller base?,1,1
+4,Has the tiller growth slowed down recently?,1,1
+5,Are the stems (tillers) shorter than usual?,0,0
+5,Do you smell any unusual or rotten odor near the plant base?,0,0
+5,Can you easily pull the roots out of the soil?,0,0
+5,Are you noticing yellowing on the lower stems?,0,0
+5,Do the tillers appear dry or brittle?,0,0
+5,Is there a soft mushy texture near the base of the stem?,0,0
+5,Are any of the tillers wilted or drooping?,0,0
+5,Do you see any black or brown spots on the stem?,0,0
+5,Are ants or other insects more active around the tiller base?,0,0
+5,Has the tiller growth slowed down recently?,0,0
+6,Are the stems (tillers) shorter than usual?,1,1
+6,Do you smell any unusual or rotten odor near the plant base?,0,1
+6,Can you easily pull the roots out of the soil?,1,1
+6,Are you noticing yellowing on the lower stems?,0,1
+6,Do the tillers appear dry or brittle?,1,1
+6,Is there a soft mushy texture near the base of the stem?,0,1
+6,Are any of the tillers wilted or drooping?,1,1
+6,Do you see any black or brown spots on the stem?,0,1
+6,Are ants or other insects more active around the tiller base?,1,1
+6,Has the tiller growth slowed down recently?,0,1
+7,Are the stems (tillers) shorter than usual?,0,0
+7,Do you smell any unusual or rotten odor near the plant base?,1,0
+7,Can you easily pull the roots out of the soil?,0,0
+7,Are you noticing yellowing on the lower stems?,1,0
+7,Do the tillers appear dry or brittle?,1,0
+7,Is there a soft mushy texture near the base of the stem?,0,0
+7,Are any of the tillers wilted or drooping?,1,0
+7,Do you see any black or brown spots on the stem?,0,0
+7,Are ants or other insects more active around the tiller base?,1,0
+7,Has the tiller growth slowed down recently?,0,0
+8,Are the stems (tillers) shorter than usual?,0,1
+8,Do you smell any unusual or rotten odor near the plant base?,1,1
+8,Can you easily pull the roots out of the soil?,1,1
+8,Are you noticing yellowing on the lower stems?,1,1
+8,Do the tillers appear dry or brittle?,1,1
+8,Is there a soft mushy texture near the base of the stem?,1,1
+8,Are any of the tillers wilted or drooping?,0,1
+8,Do you see any black or brown spots on the stem?,1,1
+8,Are ants or other insects more active around the tiller base?,0,1
+8,Has the tiller growth slowed down recently?,0,1
+9,Are the stems (tillers) shorter than usual?,1,0
+9,Do you smell any unusual or rotten odor near the plant base?,0,0
+9,Can you easily pull the roots out of the soil?,0,0
+9,Are you noticing yellowing on the lower stems?,0,0
+9,Do the tillers appear dry or brittle?,0,0
+9,Is there a soft mushy texture near the base of the stem?,0,0
+9,Are any of the tillers wilted or drooping?,1,0
+9,Do you see any black or brown spots on the stem?,1,0
+9,Are ants or other insects more active around the tiller base?,0,0
+9,Has the tiller growth slowed down recently?,0,0
+10,Are the stems (tillers) shorter than usual?,0,0
+10,Do you smell any unusual or rotten odor near the plant base?,0,0
+10,Can you easily pull the roots out of the soil?,1,0
+10,Are you noticing yellowing on the lower stems?,0,0
+10,Do the tillers appear dry or brittle?,1,0
+10,Is there a soft mushy texture near the base of the stem?,1,0
+10,Are any of the tillers wilted or drooping?,0,0
+10,Do you see any black or brown spots on the stem?,0,0
+10,Are ants or other insects more active around the tiller base?,0,0
+10,Has the tiller growth slowed down recently?,1,0
+11,Are the stems (tillers) shorter than usual?,0,0
+11,Do you smell any unusual or rotten odor near the plant base?,0,0
+11,Can you easily pull the roots out of the soil?,0,0
+11,Are you noticing yellowing on the lower stems?,1,0
+11,Do the tillers appear dry or brittle?,0,0
+11,Is there a soft mushy texture near the base of the stem?,0,0
+11,Are any of the tillers wilted or drooping?,0,0
+11,Do you see any black or brown spots on the stem?,1,0
+11,Are ants or other insects more active around the tiller base?,0,0
+11,Has the tiller growth slowed down recently?,1,0
+12,Are the stems (tillers) shorter than usual?,0,0
+12,Do you smell any unusual or rotten odor near the plant base?,0,0
+12,Can you easily pull the roots out of the soil?,1,0
+12,Are you noticing yellowing on the lower stems?,0,0
+12,Do the tillers appear dry or brittle?,0,0
+12,Is there a soft mushy texture near the base of the stem?,1,0
+12,Are any of the tillers wilted or drooping?,0,0
+12,Do you see any black or brown spots on the stem?,0,0
+12,Are ants or other insects more active around the tiller base?,0,0
+12,Has the tiller growth slowed down recently?,1,0
+13,Are the stems (tillers) shorter than usual?,1,1
+13,Do you smell any unusual or rotten odor near the plant base?,1,1
+13,Can you easily pull the roots out of the soil?,0,1
+13,Are you noticing yellowing on the lower stems?,1,1
+13,Do the tillers appear dry or brittle?,0,1
+13,Is there a soft mushy texture near the base of the stem?,1,1
+13,Are any of the tillers wilted or drooping?,1,1
+13,Do you see any black or brown spots on the stem?,1,1
+13,Are ants or other insects more active around the tiller base?,0,1
+13,Has the tiller growth slowed down recently?,1,1
+14,Are the stems (tillers) shorter than usual?,0,0
+14,Do you smell any unusual or rotten odor near the plant base?,1,0
+14,Can you easily pull the roots out of the soil?,0,0
+14,Are you noticing yellowing on the lower stems?,0,0
+14,Do the tillers appear dry or brittle?,0,0
+14,Is there a soft mushy texture near the base of the stem?,1,0
+14,Are any of the tillers wilted or drooping?,0,0
+14,Do you see any black or brown spots on the stem?,0,0
+14,Are ants or other insects more active around the tiller base?,0,0
+14,Has the tiller growth slowed down recently?,0,0
+15,Are the stems (tillers) shorter than usual?,0,0
+15,Do you smell any unusual or rotten odor near the plant base?,0,0
+15,Can you easily pull the roots out of the soil?,0,0
+15,Are you noticing yellowing on the lower stems?,0,0
+15,Do the tillers appear dry or brittle?,0,0
+15,Is there a soft mushy texture near the base of the stem?,0,0
+15,Are any of the tillers wilted or drooping?,0,0
+15,Do you see any black or brown spots on the stem?,0,0
+15,Are ants or other insects more active around the tiller base?,0,0
+15,Has the tiller growth slowed down recently?,0,0
+16,Are the stems (tillers) shorter than usual?,1,1
+16,Do you smell any unusual or rotten odor near the plant base?,0,1
+16,Can you easily pull the roots out of the soil?,1,1
+16,Are you noticing yellowing on the lower stems?,1,1
+16,Do the tillers appear dry or brittle?,1,1
+16,Is there a soft mushy texture near the base of the stem?,1,1
+16,Are any of the tillers wilted or drooping?,0,1
+16,Do you see any black or brown spots on the stem?,1,1
+16,Are ants or other insects more active around the tiller base?,0,1
+16,Has the tiller growth slowed down recently?,1,1
+17,Are the stems (tillers) shorter than usual?,1,0
+17,Do you smell any unusual or rotten odor near the plant base?,0,0
+17,Can you easily pull the roots out of the soil?,0,0
+17,Are you noticing yellowing on the lower stems?,1,0
+17,Do the tillers appear dry or brittle?,1,0
+17,Is there a soft mushy texture near the base of the stem?,1,0
+17,Are any of the tillers wilted or drooping?,0,0
+17,Do you see any black or brown spots on the stem?,1,0
+17,Are ants or other insects more active around the tiller base?,1,0
+17,Has the tiller growth slowed down recently?,1,0
+18,Are the stems (tillers) shorter than usual?,1,0
+18,Do you smell any unusual or rotten odor near the plant base?,1,0
+18,Can you easily pull the roots out of the soil?,1,0
+18,Are you noticing yellowing on the lower stems?,0,0
+18,Do the tillers appear dry or brittle?,0,0
+18,Is there a soft mushy texture near the base of the stem?,1,0
+18,Are any of the tillers wilted or drooping?,0,0
+18,Do you see any black or brown spots on the stem?,1,0
+18,Are ants or other insects more active around the tiller base?,0,0
+18,Has the tiller growth slowed down recently?,0,0
+19,Are the stems (tillers) shorter than usual?,1,1
+19,Do you smell any unusual or rotten odor near the plant base?,0,1
+19,Can you easily pull the roots out of the soil?,1,1
+19,Are you noticing yellowing on the lower stems?,1,1
+19,Do the tillers appear dry or brittle?,0,1
+19,Is there a soft mushy texture near the base of the stem?,1,1
+19,Are any of the tillers wilted or drooping?,1,1
+19,Do you see any black or brown spots on the stem?,1,1
+19,Are ants or other insects more active around the tiller base?,1,1
+19,Has the tiller growth slowed down recently?,1,1
+20,Are the stems (tillers) shorter than usual?,0,1
+20,Do you smell any unusual or rotten odor near the plant base?,1,1
+20,Can you easily pull the roots out of the soil?,1,1
+20,Are you noticing yellowing on the lower stems?,1,1
+20,Do the tillers appear dry or brittle?,1,1
+20,Is there a soft mushy texture near the base of the stem?,1,1
+20,Are any of the tillers wilted or drooping?,1,1
+20,Do you see any black or brown spots on the stem?,0,1
+20,Are ants or other insects more active around the tiller base?,1,1
+20,Has the tiller growth slowed down recently?,1,1
+21,Are the stems (tillers) shorter than usual?,0,1
+21,Do you smell any unusual or rotten odor near the plant base?,0,1
+21,Can you easily pull the roots out of the soil?,1,1
+21,Are you noticing yellowing on the lower stems?,0,1
+21,Do the tillers appear dry or brittle?,1,1
+21,Is there a soft mushy texture near the base of the stem?,1,1
+21,Are any of the tillers wilted or drooping?,1,1
+21,Do you see any black or brown spots on the stem?,1,1
+21,Are ants or other insects more active around the tiller base?,0,1
+21,Has the tiller growth slowed down recently?,1,1
+22,Are the stems (tillers) shorter than usual?,1,1
+22,Do you smell any unusual or rotten odor near the plant base?,1,1
+22,Can you easily pull the roots out of the soil?,1,1
+22,Are you noticing yellowing on the lower stems?,1,1
+22,Do the tillers appear dry or brittle?,1,1
+22,Is there a soft mushy texture near the base of the stem?,1,1
+22,Are any of the tillers wilted or drooping?,1,1
+22,Do you see any black or brown spots on the stem?,1,1
+22,Are ants or other insects more active around the tiller base?,0,1
+22,Has the tiller growth slowed down recently?,1,1
+23,Are the stems (tillers) shorter than usual?,1,0
+23,Do you smell any unusual or rotten odor near the plant base?,0,0
+23,Can you easily pull the roots out of the soil?,1,0
+23,Are you noticing yellowing on the lower stems?,1,0
+23,Do the tillers appear dry or brittle?,0,0
+23,Is there a soft mushy texture near the base of the stem?,0,0
+23,Are any of the tillers wilted or drooping?,1,0
+23,Do you see any black or brown spots on the stem?,0,0
+23,Are ants or other insects more active around the tiller base?,1,0
+23,Has the tiller growth slowed down recently?,1,0
+24,Are the stems (tillers) shorter than usual?,0,0
+24,Do you smell any unusual or rotten odor near the plant base?,0,0
+24,Can you easily pull the roots out of the soil?,0,0
+24,Are you noticing yellowing on the lower stems?,0,0
+24,Do the tillers appear dry or brittle?,0,0
+24,Is there a soft mushy texture near the base of the stem?,0,0
+24,Are any of the tillers wilted or drooping?,1,0
+24,Do you see any black or brown spots on the stem?,0,0
+24,Are ants or other insects more active around the tiller base?,1,0
+24,Has the tiller growth slowed down recently?,0,0
+25,Are the stems (tillers) shorter than usual?,0,1
+25,Do you smell any unusual or rotten odor near the plant base?,1,1
+25,Can you easily pull the roots out of the soil?,1,1
+25,Are you noticing yellowing on the lower stems?,1,1
+25,Do the tillers appear dry or brittle?,1,1
+25,Is there a soft mushy texture near the base of the stem?,1,1
+25,Are any of the tillers wilted or drooping?,1,1
+25,Do you see any black or brown spots on the stem?,0,1
+25,Are ants or other insects more active around the tiller base?,1,1
+25,Has the tiller growth slowed down recently?,0,1
+26,Are the stems (tillers) shorter than usual?,0,1
+26,Do you smell any unusual or rotten odor near the plant base?,1,1
+26,Can you easily pull the roots out of the soil?,1,1
+26,Are you noticing yellowing on the lower stems?,1,1
+26,Do the tillers appear dry or brittle?,0,1
+26,Is there a soft mushy texture near the base of the stem?,1,1
+26,Are any of the tillers wilted or drooping?,1,1
+26,Do you see any black or brown spots on the stem?,1,1
+26,Are ants or other insects more active around the tiller base?,1,1
+26,Has the tiller growth slowed down recently?,1,1
+27,Are the stems (tillers) shorter than usual?,0,0
+27,Do you smell any unusual or rotten odor near the plant base?,0,0
+27,Can you easily pull the roots out of the soil?,0,0
+27,Are you noticing yellowing on the lower stems?,0,0
+27,Do the tillers appear dry or brittle?,1,0
+27,Is there a soft mushy texture near the base of the stem?,0,0
+27,Are any of the tillers wilted or drooping?,0,0
+27,Do you see any black or brown spots on the stem?,0,0
+27,Are ants or other insects more active around the tiller base?,0,0
+27,Has the tiller growth slowed down recently?,0,0
+28,Are the stems (tillers) shorter than usual?,1,1
+28,Do you smell any unusual or rotten odor near the plant base?,1,1
+28,Can you easily pull the roots out of the soil?,1,1
+28,Are you noticing yellowing on the lower stems?,0,1
+28,Do the tillers appear dry or brittle?,1,1
+28,Is there a soft mushy texture near the base of the stem?,1,1
+28,Are any of the tillers wilted or drooping?,0,1
+28,Do you see any black or brown spots on the stem?,0,1
+28,Are ants or other insects more active around the tiller base?,1,1
+28,Has the tiller growth slowed down recently?,1,1
+29,Are the stems (tillers) shorter than usual?,1,0
+29,Do you smell any unusual or rotten odor near the plant base?,0,0
+29,Can you easily pull the roots out of the soil?,0,0
+29,Are you noticing yellowing on the lower stems?,0,0
+29,Do the tillers appear dry or brittle?,0,0
+29,Is there a soft mushy texture near the base of the stem?,0,0
+29,Are any of the tillers wilted or drooping?,0,0
+29,Do you see any black or brown spots on the stem?,0,0
+29,Are ants or other insects more active around the tiller base?,0,0
+29,Has the tiller growth slowed down recently?,1,0
+30,Are the stems (tillers) shorter than usual?,1,1
+30,Do you smell any unusual or rotten odor near the plant base?,0,1
+30,Can you easily pull the roots out of the soil?,0,1
+30,Are you noticing yellowing on the lower stems?,1,1
+30,Do the tillers appear dry or brittle?,1,1
+30,Is there a soft mushy texture near the base of the stem?,0,1
+30,Are any of the tillers wilted or drooping?,1,1
+30,Do you see any black or brown spots on the stem?,1,1
+30,Are ants or other insects more active around the tiller base?,1,1
+30,Has the tiller growth slowed down recently?,0,1
+31,Are the stems (tillers) shorter than usual?,1,1
+31,Do you smell any unusual or rotten odor near the plant base?,1,1
+31,Can you easily pull the roots out of the soil?,1,1
+31,Are you noticing yellowing on the lower stems?,0,1
+31,Do the tillers appear dry or brittle?,0,1
+31,Is there a soft mushy texture near the base of the stem?,0,1
+31,Are any of the tillers wilted or drooping?,0,1
+31,Do you see any black or brown spots on the stem?,0,1
+31,Are ants or other insects more active around the tiller base?,1,1
+31,Has the tiller growth slowed down recently?,0,1
+32,Are the stems (tillers) shorter than usual?,0,0
+32,Do you smell any unusual or rotten odor near the plant base?,0,0
+32,Can you easily pull the roots out of the soil?,0,0
+32,Are you noticing yellowing on the lower stems?,0,0
+32,Do the tillers appear dry or brittle?,1,0
+32,Is there a soft mushy texture near the base of the stem?,0,0
+32,Are any of the tillers wilted or drooping?,0,0
+32,Do you see any black or brown spots on the stem?,1,0
+32,Are ants or other insects more active around the tiller base?,0,0
+32,Has the tiller growth slowed down recently?,1,0
+33,Are the stems (tillers) shorter than usual?,1,0
+33,Do you smell any unusual or rotten odor near the plant base?,1,0
+33,Can you easily pull the roots out of the soil?,0,0
+33,Are you noticing yellowing on the lower stems?,0,0
+33,Do the tillers appear dry or brittle?,0,0
+33,Is there a soft mushy texture near the base of the stem?,1,0
+33,Are any of the tillers wilted or drooping?,0,0
+33,Do you see any black or brown spots on the stem?,0,0
+33,Are ants or other insects more active around the tiller base?,0,0
+33,Has the tiller growth slowed down recently?,1,0
+34,Are the stems (tillers) shorter than usual?,1,1
+34,Do you smell any unusual or rotten odor near the plant base?,0,1
+34,Can you easily pull the roots out of the soil?,0,1
+34,Are you noticing yellowing on the lower stems?,1,1
+34,Do the tillers appear dry or brittle?,0,1
+34,Is there a soft mushy texture near the base of the stem?,1,1
+34,Are any of the tillers wilted or drooping?,1,1
+34,Do you see any black or brown spots on the stem?,0,1
+34,Are ants or other insects more active around the tiller base?,0,1
+34,Has the tiller growth slowed down recently?,0,1
+35,Are the stems (tillers) shorter than usual?,0,0
+35,Do you smell any unusual or rotten odor near the plant base?,1,0
+35,Can you easily pull the roots out of the soil?,0,0
+35,Are you noticing yellowing on the lower stems?,0,0
+35,Do the tillers appear dry or brittle?,1,0
+35,Is there a soft mushy texture near the base of the stem?,1,0
+35,Are any of the tillers wilted or drooping?,0,0
+35,Do you see any black or brown spots on the stem?,1,0
+35,Are ants or other insects more active around the tiller base?,1,0
+35,Has the tiller growth slowed down recently?,0,0
+36,Are the stems (tillers) shorter than usual?,0,1
+36,Do you smell any unusual or rotten odor near the plant base?,1,1
+36,Can you easily pull the roots out of the soil?,1,1
+36,Are you noticing yellowing on the lower stems?,0,1
+36,Do the tillers appear dry or brittle?,1,1
+36,Is there a soft mushy texture near the base of the stem?,1,1
+36,Are any of the tillers wilted or drooping?,1,1
+36,Do you see any black or brown spots on the stem?,0,1
+36,Are ants or other insects more active around the tiller base?,1,1
+36,Has the tiller growth slowed down recently?,1,1
+37,Are the stems (tillers) shorter than usual?,1,1
+37,Do you smell any unusual or rotten odor near the plant base?,1,1
+37,Can you easily pull the roots out of the soil?,1,1
+37,Are you noticing yellowing on the lower stems?,1,1
+37,Do the tillers appear dry or brittle?,1,1
+37,Is there a soft mushy texture near the base of the stem?,1,1
+37,Are any of the tillers wilted or drooping?,1,1
+37,Do you see any black or brown spots on the stem?,1,1
+37,Are ants or other insects more active around the tiller base?,1,1
+37,Has the tiller growth slowed down recently?,1,1
+38,Are the stems (tillers) shorter than usual?,0,0
+38,Do you smell any unusual or rotten odor near the plant base?,0,0
+38,Can you easily pull the roots out of the soil?,1,0
+38,Are you noticing yellowing on the lower stems?,0,0
+38,Do the tillers appear dry or brittle?,0,0
+38,Is there a soft mushy texture near the base of the stem?,1,0
+38,Are any of the tillers wilted or drooping?,0,0
+38,Do you see any black or brown spots on the stem?,1,0
+38,Are ants or other insects more active around the tiller base?,1,0
+38,Has the tiller growth slowed down recently?,0,0
+39,Are the stems (tillers) shorter than usual?,0,0
+39,Do you smell any unusual or rotten odor near the plant base?,0,0
+39,Can you easily pull the roots out of the soil?,0,0
+39,Are you noticing yellowing on the lower stems?,0,0
+39,Do the tillers appear dry or brittle?,0,0
+39,Is there a soft mushy texture near the base of the stem?,0,0
+39,Are any of the tillers wilted or drooping?,0,0
+39,Do you see any black or brown spots on the stem?,0,0
+39,Are ants or other insects more active around the tiller base?,0,0
+39,Has the tiller growth slowed down recently?,0,0
+40,Are the stems (tillers) shorter than usual?,0,0
+40,Do you smell any unusual or rotten odor near the plant base?,0,0
+40,Can you easily pull the roots out of the soil?,0,0
+40,Are you noticing yellowing on the lower stems?,0,0
+40,Do the tillers appear dry or brittle?,1,0
+40,Is there a soft mushy texture near the base of the stem?,0,0
+40,Are any of the tillers wilted or drooping?,1,0
+40,Do you see any black or brown spots on the stem?,1,0
+40,Are ants or other insects more active around the tiller base?,0,0
+40,Has the tiller growth slowed down recently?,0,0
+41,Are the stems (tillers) shorter than usual?,1,1
+41,Do you smell any unusual or rotten odor near the plant base?,1,1
+41,Can you easily pull the roots out of the soil?,1,1
+41,Are you noticing yellowing on the lower stems?,1,1
+41,Do the tillers appear dry or brittle?,0,1
+41,Is there a soft mushy texture near the base of the stem?,0,1
+41,Are any of the tillers wilted or drooping?,1,1
+41,Do you see any black or brown spots on the stem?,0,1
+41,Are ants or other insects more active around the tiller base?,1,1
+41,Has the tiller growth slowed down recently?,1,1
+42,Are the stems (tillers) shorter than usual?,1,1
+42,Do you smell any unusual or rotten odor near the plant base?,0,1
+42,Can you easily pull the roots out of the soil?,1,1
+42,Are you noticing yellowing on the lower stems?,1,1
+42,Do the tillers appear dry or brittle?,1,1
+42,Is there a soft mushy texture near the base of the stem?,0,1
+42,Are any of the tillers wilted or drooping?,0,1
+42,Do you see any black or brown spots on the stem?,0,1
+42,Are ants or other insects more active around the tiller base?,1,1
+42,Has the tiller growth slowed down recently?,1,1
+43,Are the stems (tillers) shorter than usual?,0,0
+43,Do you smell any unusual or rotten odor near the plant base?,1,0
+43,Can you easily pull the roots out of the soil?,0,0
+43,Are you noticing yellowing on the lower stems?,0,0
+43,Do the tillers appear dry or brittle?,0,0
+43,Is there a soft mushy texture near the base of the stem?,0,0
+43,Are any of the tillers wilted or drooping?,0,0
+43,Do you see any black or brown spots on the stem?,1,0
+43,Are ants or other insects more active around the tiller base?,0,0
+43,Has the tiller growth slowed down recently?,0,0
+44,Are the stems (tillers) shorter than usual?,1,1
+44,Do you smell any unusual or rotten odor near the plant base?,0,1
+44,Can you easily pull the roots out of the soil?,1,1
+44,Are you noticing yellowing on the lower stems?,0,1
+44,Do the tillers appear dry or brittle?,1,1
+44,Is there a soft mushy texture near the base of the stem?,1,1
+44,Are any of the tillers wilted or drooping?,0,1
+44,Do you see any black or brown spots on the stem?,0,1
+44,Are ants or other insects more active around the tiller base?,1,1
+44,Has the tiller growth slowed down recently?,1,1
+45,Are the stems (tillers) shorter than usual?,1,1
+45,Do you smell any unusual or rotten odor near the plant base?,1,1
+45,Can you easily pull the roots out of the soil?,0,1
+45,Are you noticing yellowing on the lower stems?,1,1
+45,Do the tillers appear dry or brittle?,1,1
+45,Is there a soft mushy texture near the base of the stem?,0,1
+45,Are any of the tillers wilted or drooping?,1,1
+45,Do you see any black or brown spots on the stem?,1,1
+45,Are ants or other insects more active around the tiller base?,0,1
+45,Has the tiller growth slowed down recently?,0,1
+46,Are the stems (tillers) shorter than usual?,0,1
+46,Do you smell any unusual or rotten odor near the plant base?,1,1
+46,Can you easily pull the roots out of the soil?,0,1
+46,Are you noticing yellowing on the lower stems?,1,1
+46,Do the tillers appear dry or brittle?,0,1
+46,Is there a soft mushy texture near the base of the stem?,1,1
+46,Are any of the tillers wilted or drooping?,1,1
+46,Do you see any black or brown spots on the stem?,1,1
+46,Are ants or other insects more active around the tiller base?,0,1
+46,Has the tiller growth slowed down recently?,0,1
+47,Are the stems (tillers) shorter than usual?,1,1
+47,Do you smell any unusual or rotten odor near the plant base?,0,1
+47,Can you easily pull the roots out of the soil?,1,1
+47,Are you noticing yellowing on the lower stems?,1,1
+47,Do the tillers appear dry or brittle?,1,1
+47,Is there a soft mushy texture near the base of the stem?,1,1
+47,Are any of the tillers wilted or drooping?,0,1
+47,Do you see any black or brown spots on the stem?,1,1
+47,Are ants or other insects more active around the tiller base?,1,1
+47,Has the tiller growth slowed down recently?,1,1
+48,Are the stems (tillers) shorter than usual?,1,0
+48,Do you smell any unusual or rotten odor near the plant base?,0,0
+48,Can you easily pull the roots out of the soil?,0,0
+48,Are you noticing yellowing on the lower stems?,0,0
+48,Do the tillers appear dry or brittle?,1,0
+48,Is there a soft mushy texture near the base of the stem?,0,0
+48,Are any of the tillers wilted or drooping?,0,0
+48,Do you see any black or brown spots on the stem?,0,0
+48,Are ants or other insects more active around the tiller base?,0,0
+48,Has the tiller growth slowed down recently?,0,0
+49,Are the stems (tillers) shorter than usual?,0,1
+49,Do you smell any unusual or rotten odor near the plant base?,1,1
+49,Can you easily pull the roots out of the soil?,1,1
+49,Are you noticing yellowing on the lower stems?,1,1
+49,Do the tillers appear dry or brittle?,1,1
+49,Is there a soft mushy texture near the base of the stem?,1,1
+49,Are any of the tillers wilted or drooping?,0,1
+49,Do you see any black or brown spots on the stem?,0,1
+49,Are ants or other insects more active around the tiller base?,0,1
+49,Has the tiller growth slowed down recently?,1,1
+50,Are the stems (tillers) shorter than usual?,0,0
+50,Do you smell any unusual or rotten odor near the plant base?,1,0
+50,Can you easily pull the roots out of the soil?,0,0
+50,Are you noticing yellowing on the lower stems?,0,0
+50,Do the tillers appear dry or brittle?,1,0
+50,Is there a soft mushy texture near the base of the stem?,0,0
+50,Are any of the tillers wilted or drooping?,0,0
+50,Do you see any black or brown spots on the stem?,0,0
+50,Are ants or other insects more active around the tiller base?,0,0
+50,Has the tiller growth slowed down recently?,0,0
+51,Are the stems (tillers) shorter than usual?,1,1
+51,Do you smell any unusual or rotten odor near the plant base?,1,1
+51,Can you easily pull the roots out of the soil?,1,1
+51,Are you noticing yellowing on the lower stems?,1,1
+51,Do the tillers appear dry or brittle?,0,1
+51,Is there a soft mushy texture near the base of the stem?,1,1
+51,Are any of the tillers wilted or drooping?,1,1
+51,Do you see any black or brown spots on the stem?,1,1
+51,Are ants or other insects more active around the tiller base?,1,1
+51,Has the tiller growth slowed down recently?,1,1
+52,Are the stems (tillers) shorter than usual?,1,1
+52,Do you smell any unusual or rotten odor near the plant base?,1,1
+52,Can you easily pull the roots out of the soil?,1,1
+52,Are you noticing yellowing on the lower stems?,1,1
+52,Do the tillers appear dry or brittle?,1,1
+52,Is there a soft mushy texture near the base of the stem?,0,1
+52,Are any of the tillers wilted or drooping?,0,1
+52,Do you see any black or brown spots on the stem?,0,1
+52,Are ants or other insects more active around the tiller base?,1,1
+52,Has the tiller growth slowed down recently?,0,1
+53,Are the stems (tillers) shorter than usual?,1,1
+53,Do you smell any unusual or rotten odor near the plant base?,0,1
+53,Can you easily pull the roots out of the soil?,1,1
+53,Are you noticing yellowing on the lower stems?,0,1
+53,Do the tillers appear dry or brittle?,1,1
+53,Is there a soft mushy texture near the base of the stem?,0,1
+53,Are any of the tillers wilted or drooping?,1,1
+53,Do you see any black or brown spots on the stem?,1,1
+53,Are ants or other insects more active around the tiller base?,1,1
+53,Has the tiller growth slowed down recently?,1,1
+54,Are the stems (tillers) shorter than usual?,0,0
+54,Do you smell any unusual or rotten odor near the plant base?,0,0
+54,Can you easily pull the roots out of the soil?,0,0
+54,Are you noticing yellowing on the lower stems?,0,0
+54,Do the tillers appear dry or brittle?,0,0
+54,Is there a soft mushy texture near the base of the stem?,0,0
+54,Are any of the tillers wilted or drooping?,0,0
+54,Do you see any black or brown spots on the stem?,1,0
+54,Are ants or other insects more active around the tiller base?,1,0
+54,Has the tiller growth slowed down recently?,0,0
+55,Are the stems (tillers) shorter than usual?,0,1
+55,Do you smell any unusual or rotten odor near the plant base?,1,1
+55,Can you easily pull the roots out of the soil?,1,1
+55,Are you noticing yellowing on the lower stems?,0,1
+55,Do the tillers appear dry or brittle?,1,1
+55,Is there a soft mushy texture near the base of the stem?,1,1
+55,Are any of the tillers wilted or drooping?,0,1
+55,Do you see any black or brown spots on the stem?,1,1
+55,Are ants or other insects more active around the tiller base?,0,1
+55,Has the tiller growth slowed down recently?,1,1
+56,Are the stems (tillers) shorter than usual?,1,1
+56,Do you smell any unusual or rotten odor near the plant base?,0,1
+56,Can you easily pull the roots out of the soil?,1,1
+56,Are you noticing yellowing on the lower stems?,1,1
+56,Do the tillers appear dry or brittle?,0,1
+56,Is there a soft mushy texture near the base of the stem?,1,1
+56,Are any of the tillers wilted or drooping?,1,1
+56,Do you see any black or brown spots on the stem?,0,1
+56,Are ants or other insects more active around the tiller base?,1,1
+56,Has the tiller growth slowed down recently?,1,1
+57,Are the stems (tillers) shorter than usual?,1,1
+57,Do you smell any unusual or rotten odor near the plant base?,1,1
+57,Can you easily pull the roots out of the soil?,1,1
+57,Are you noticing yellowing on the lower stems?,1,1
+57,Do the tillers appear dry or brittle?,0,1
+57,Is there a soft mushy texture near the base of the stem?,1,1
+57,Are any of the tillers wilted or drooping?,1,1
+57,Do you see any black or brown spots on the stem?,1,1
+57,Are ants or other insects more active around the tiller base?,1,1
+57,Has the tiller growth slowed down recently?,1,1
+58,Are the stems (tillers) shorter than usual?,0,0
+58,Do you smell any unusual or rotten odor near the plant base?,0,0
+58,Can you easily pull the roots out of the soil?,1,0
+58,Are you noticing yellowing on the lower stems?,1,0
+58,Do the tillers appear dry or brittle?,0,0
+58,Is there a soft mushy texture near the base of the stem?,0,0
+58,Are any of the tillers wilted or drooping?,0,0
+58,Do you see any black or brown spots on the stem?,1,0
+58,Are ants or other insects more active around the tiller base?,1,0
+58,Has the tiller growth slowed down recently?,1,0
+59,Are the stems (tillers) shorter than usual?,0,0
+59,Do you smell any unusual or rotten odor near the plant base?,0,0
+59,Can you easily pull the roots out of the soil?,1,0
+59,Are you noticing yellowing on the lower stems?,1,0
+59,Do the tillers appear dry or brittle?,0,0
+59,Is there a soft mushy texture near the base of the stem?,0,0
+59,Are any of the tillers wilted or drooping?,0,0
+59,Do you see any black or brown spots on the stem?,1,0
+59,Are ants or other insects more active around the tiller base?,0,0
+59,Has the tiller growth slowed down recently?,1,0
+60,Are the stems (tillers) shorter than usual?,1,1
+60,Do you smell any unusual or rotten odor near the plant base?,0,1
+60,Can you easily pull the roots out of the soil?,1,1
+60,Are you noticing yellowing on the lower stems?,1,1
+60,Do the tillers appear dry or brittle?,1,1
+60,Is there a soft mushy texture near the base of the stem?,1,1
+60,Are any of the tillers wilted or drooping?,0,1
+60,Do you see any black or brown spots on the stem?,1,1
+60,Are ants or other insects more active around the tiller base?,1,1
+60,Has the tiller growth slowed down recently?,0,1
+61,Are the stems (tillers) shorter than usual?,0,0
+61,Do you smell any unusual or rotten odor near the plant base?,1,0
+61,Can you easily pull the roots out of the soil?,0,0
+61,Are you noticing yellowing on the lower stems?,0,0
+61,Do the tillers appear dry or brittle?,1,0
+61,Is there a soft mushy texture near the base of the stem?,0,0
+61,Are any of the tillers wilted or drooping?,0,0
+61,Do you see any black or brown spots on the stem?,0,0
+61,Are ants or other insects more active around the tiller base?,0,0
+61,Has the tiller growth slowed down recently?,1,0
+62,Are the stems (tillers) shorter than usual?,1,1
+62,Do you smell any unusual or rotten odor near the plant base?,1,1
+62,Can you easily pull the roots out of the soil?,1,1
+62,Are you noticing yellowing on the lower stems?,1,1
+62,Do the tillers appear dry or brittle?,1,1
+62,Is there a soft mushy texture near the base of the stem?,1,1
+62,Are any of the tillers wilted or drooping?,0,1
+62,Do you see any black or brown spots on the stem?,1,1
+62,Are ants or other insects more active around the tiller base?,1,1
+62,Has the tiller growth slowed down recently?,1,1
+63,Are the stems (tillers) shorter than usual?,0,0
+63,Do you smell any unusual or rotten odor near the plant base?,0,0
+63,Can you easily pull the roots out of the soil?,0,0
+63,Are you noticing yellowing on the lower stems?,0,0
+63,Do the tillers appear dry or brittle?,0,0
+63,Is there a soft mushy texture near the base of the stem?,0,0
+63,Are any of the tillers wilted or drooping?,0,0
+63,Do you see any black or brown spots on the stem?,0,0
+63,Are ants or other insects more active around the tiller base?,1,0
+63,Has the tiller growth slowed down recently?,1,0
+64,Are the stems (tillers) shorter than usual?,1,1
+64,Do you smell any unusual or rotten odor near the plant base?,1,1
+64,Can you easily pull the roots out of the soil?,0,1
+64,Are you noticing yellowing on the lower stems?,1,1
+64,Do the tillers appear dry or brittle?,0,1
+64,Is there a soft mushy texture near the base of the stem?,1,1
+64,Are any of the tillers wilted or drooping?,1,1
+64,Do you see any black or brown spots on the stem?,1,1
+64,Are ants or other insects more active around the tiller base?,1,1
+64,Has the tiller growth slowed down recently?,0,1
+65,Are the stems (tillers) shorter than usual?,1,0
+65,Do you smell any unusual or rotten odor near the plant base?,0,0
+65,Can you easily pull the roots out of the soil?,0,0
+65,Are you noticing yellowing on the lower stems?,0,0
+65,Do the tillers appear dry or brittle?,1,0
+65,Is there a soft mushy texture near the base of the stem?,0,0
+65,Are any of the tillers wilted or drooping?,0,0
+65,Do you see any black or brown spots on the stem?,0,0
+65,Are ants or other insects more active around the tiller base?,0,0
+65,Has the tiller growth slowed down recently?,0,0
+66,Are the stems (tillers) shorter than usual?,0,0
+66,Do you smell any unusual or rotten odor near the plant base?,0,0
+66,Can you easily pull the roots out of the soil?,1,0
+66,Are you noticing yellowing on the lower stems?,1,0
+66,Do the tillers appear dry or brittle?,0,0
+66,Is there a soft mushy texture near the base of the stem?,1,0
+66,Are any of the tillers wilted or drooping?,0,0
+66,Do you see any black or brown spots on the stem?,1,0
+66,Are ants or other insects more active around the tiller base?,1,0
+66,Has the tiller growth slowed down recently?,0,0
+67,Are the stems (tillers) shorter than usual?,0,1
+67,Do you smell any unusual or rotten odor near the plant base?,0,1
+67,Can you easily pull the roots out of the soil?,1,1
+67,Are you noticing yellowing on the lower stems?,1,1
+67,Do the tillers appear dry or brittle?,0,1
+67,Is there a soft mushy texture near the base of the stem?,0,1
+67,Are any of the tillers wilted or drooping?,1,1
+67,Do you see any black or brown spots on the stem?,1,1
+67,Are ants or other insects more active around the tiller base?,1,1
+67,Has the tiller growth slowed down recently?,0,1
+68,Are the stems (tillers) shorter than usual?,1,1
+68,Do you smell any unusual or rotten odor near the plant base?,1,1
+68,Can you easily pull the roots out of the soil?,1,1
+68,Are you noticing yellowing on the lower stems?,0,1
+68,Do the tillers appear dry or brittle?,0,1
+68,Is there a soft mushy texture near the base of the stem?,1,1
+68,Are any of the tillers wilted or drooping?,1,1
+68,Do you see any black or brown spots on the stem?,1,1
+68,Are ants or other insects more active around the tiller base?,0,1
+68,Has the tiller growth slowed down recently?,1,1
+69,Are the stems (tillers) shorter than usual?,0,0
+69,Do you smell any unusual or rotten odor near the plant base?,1,0
+69,Can you easily pull the roots out of the soil?,0,0
+69,Are you noticing yellowing on the lower stems?,0,0
+69,Do the tillers appear dry or brittle?,0,0
+69,Is there a soft mushy texture near the base of the stem?,0,0
+69,Are any of the tillers wilted or drooping?,0,0
+69,Do you see any black or brown spots on the stem?,0,0
+69,Are ants or other insects more active around the tiller base?,0,0
+69,Has the tiller growth slowed down recently?,0,0
+70,Are the stems (tillers) shorter than usual?,0,1
+70,Do you smell any unusual or rotten odor near the plant base?,1,1
+70,Can you easily pull the roots out of the soil?,0,1
+70,Are you noticing yellowing on the lower stems?,0,1
+70,Do the tillers appear dry or brittle?,1,1
+70,Is there a soft mushy texture near the base of the stem?,1,1
+70,Are any of the tillers wilted or drooping?,0,1
+70,Do you see any black or brown spots on the stem?,1,1
+70,Are ants or other insects more active around the tiller base?,0,1
+70,Has the tiller growth slowed down recently?,1,1
+71,Are the stems (tillers) shorter than usual?,0,0
+71,Do you smell any unusual or rotten odor near the plant base?,0,0
+71,Can you easily pull the roots out of the soil?,0,0
+71,Are you noticing yellowing on the lower stems?,1,0
+71,Do the tillers appear dry or brittle?,1,0
+71,Is there a soft mushy texture near the base of the stem?,0,0
+71,Are any of the tillers wilted or drooping?,0,0
+71,Do you see any black or brown spots on the stem?,0,0
+71,Are ants or other insects more active around the tiller base?,0,0
+71,Has the tiller growth slowed down recently?,1,0
+72,Are the stems (tillers) shorter than usual?,1,1
+72,Do you smell any unusual or rotten odor near the plant base?,0,1
+72,Can you easily pull the roots out of the soil?,0,1
+72,Are you noticing yellowing on the lower stems?,1,1
+72,Do the tillers appear dry or brittle?,0,1
+72,Is there a soft mushy texture near the base of the stem?,0,1
+72,Are any of the tillers wilted or drooping?,1,1
+72,Do you see any black or brown spots on the stem?,1,1
+72,Are ants or other insects more active around the tiller base?,1,1
+72,Has the tiller growth slowed down recently?,1,1
+73,Are the stems (tillers) shorter than usual?,0,0
+73,Do you smell any unusual or rotten odor near the plant base?,0,0
+73,Can you easily pull the roots out of the soil?,1,0
+73,Are you noticing yellowing on the lower stems?,0,0
+73,Do the tillers appear dry or brittle?,0,0
+73,Is there a soft mushy texture near the base of the stem?,0,0
+73,Are any of the tillers wilted or drooping?,1,0
+73,Do you see any black or brown spots on the stem?,0,0
+73,Are ants or other insects more active around the tiller base?,1,0
+73,Has the tiller growth slowed down recently?,0,0
+74,Are the stems (tillers) shorter than usual?,1,1
+74,Do you smell any unusual or rotten odor near the plant base?,1,1
+74,Can you easily pull the roots out of the soil?,0,1
+74,Are you noticing yellowing on the lower stems?,1,1
+74,Do the tillers appear dry or brittle?,0,1
+74,Is there a soft mushy texture near the base of the stem?,0,1
+74,Are any of the tillers wilted or drooping?,0,1
+74,Do you see any black or brown spots on the stem?,1,1
+74,Are ants or other insects more active around the tiller base?,1,1
+74,Has the tiller growth slowed down recently?,1,1
+75,Are the stems (tillers) shorter than usual?,1,0
+75,Do you smell any unusual or rotten odor near the plant base?,0,0
+75,Can you easily pull the roots out of the soil?,0,0
+75,Are you noticing yellowing on the lower stems?,0,0
+75,Do the tillers appear dry or brittle?,1,0
+75,Is there a soft mushy texture near the base of the stem?,1,0
+75,Are any of the tillers wilted or drooping?,0,0
+75,Do you see any black or brown spots on the stem?,0,0
+75,Are ants or other insects more active around the tiller base?,0,0
+75,Has the tiller growth slowed down recently?,0,0
+76,Are the stems (tillers) shorter than usual?,1,0
+76,Do you smell any unusual or rotten odor near the plant base?,0,0
+76,Can you easily pull the roots out of the soil?,0,0
+76,Are you noticing yellowing on the lower stems?,0,0
+76,Do the tillers appear dry or brittle?,0,0
+76,Is there a soft mushy texture near the base of the stem?,0,0
+76,Are any of the tillers wilted or drooping?,0,0
+76,Do you see any black or brown spots on the stem?,1,0
+76,Are ants or other insects more active around the tiller base?,0,0
+76,Has the tiller growth slowed down recently?,0,0
+77,Are the stems (tillers) shorter than usual?,1,0
+77,Do you smell any unusual or rotten odor near the plant base?,0,0
+77,Can you easily pull the roots out of the soil?,0,0
+77,Are you noticing yellowing on the lower stems?,0,0
+77,Do the tillers appear dry or brittle?,0,0
+77,Is there a soft mushy texture near the base of the stem?,0,0
+77,Are any of the tillers wilted or drooping?,0,0
+77,Do you see any black or brown spots on the stem?,1,0
+77,Are ants or other insects more active around the tiller base?,1,0
+77,Has the tiller growth slowed down recently?,0,0
+78,Are the stems (tillers) shorter than usual?,1,1
+78,Do you smell any unusual or rotten odor near the plant base?,1,1
+78,Can you easily pull the roots out of the soil?,1,1
+78,Are you noticing yellowing on the lower stems?,1,1
+78,Do the tillers appear dry or brittle?,1,1
+78,Is there a soft mushy texture near the base of the stem?,1,1
+78,Are any of the tillers wilted or drooping?,0,1
+78,Do you see any black or brown spots on the stem?,1,1
+78,Are ants or other insects more active around the tiller base?,0,1
+78,Has the tiller growth slowed down recently?,1,1
+79,Are the stems (tillers) shorter than usual?,0,0
+79,Do you smell any unusual or rotten odor near the plant base?,0,0
+79,Can you easily pull the roots out of the soil?,1,0
+79,Are you noticing yellowing on the lower stems?,0,0
+79,Do the tillers appear dry or brittle?,0,0
+79,Is there a soft mushy texture near the base of the stem?,1,0
+79,Are any of the tillers wilted or drooping?,0,0
+79,Do you see any black or brown spots on the stem?,0,0
+79,Are ants or other insects more active around the tiller base?,0,0
+79,Has the tiller growth slowed down recently?,0,0
+80,Are the stems (tillers) shorter than usual?,1,0
+80,Do you smell any unusual or rotten odor near the plant base?,0,0
+80,Can you easily pull the roots out of the soil?,0,0
+80,Are you noticing yellowing on the lower stems?,1,0
+80,Do the tillers appear dry or brittle?,1,0
+80,Is there a soft mushy texture near the base of the stem?,1,0
+80,Are any of the tillers wilted or drooping?,0,0
+80,Do you see any black or brown spots on the stem?,0,0
+80,Are ants or other insects more active around the tiller base?,1,0
+80,Has the tiller growth slowed down recently?,0,0
+81,Are the stems (tillers) shorter than usual?,1,0
+81,Do you smell any unusual or rotten odor near the plant base?,0,0
+81,Can you easily pull the roots out of the soil?,0,0
+81,Are you noticing yellowing on the lower stems?,0,0
+81,Do the tillers appear dry or brittle?,1,0
+81,Is there a soft mushy texture near the base of the stem?,0,0
+81,Are any of the tillers wilted or drooping?,0,0
+81,Do you see any black or brown spots on the stem?,0,0
+81,Are ants or other insects more active around the tiller base?,0,0
+81,Has the tiller growth slowed down recently?,0,0
+82,Are the stems (tillers) shorter than usual?,1,1
+82,Do you smell any unusual or rotten odor near the plant base?,1,1
+82,Can you easily pull the roots out of the soil?,1,1
+82,Are you noticing yellowing on the lower stems?,0,1
+82,Do the tillers appear dry or brittle?,1,1
+82,Is there a soft mushy texture near the base of the stem?,0,1
+82,Are any of the tillers wilted or drooping?,1,1
+82,Do you see any black or brown spots on the stem?,0,1
+82,Are ants or other insects more active around the tiller base?,0,1
+82,Has the tiller growth slowed down recently?,1,1
+83,Are the stems (tillers) shorter than usual?,0,0
+83,Do you smell any unusual or rotten odor near the plant base?,1,0
+83,Can you easily pull the roots out of the soil?,0,0
+83,Are you noticing yellowing on the lower stems?,0,0
+83,Do the tillers appear dry or brittle?,1,0
+83,Is there a soft mushy texture near the base of the stem?,0,0
+83,Are any of the tillers wilted or drooping?,0,0
+83,Do you see any black or brown spots on the stem?,0,0
+83,Are ants or other insects more active around the tiller base?,1,0
+83,Has the tiller growth slowed down recently?,1,0
+84,Are the stems (tillers) shorter than usual?,0,1
+84,Do you smell any unusual or rotten odor near the plant base?,0,1
+84,Can you easily pull the roots out of the soil?,0,1
+84,Are you noticing yellowing on the lower stems?,1,1
+84,Do the tillers appear dry or brittle?,0,1
+84,Is there a soft mushy texture near the base of the stem?,1,1
+84,Are any of the tillers wilted or drooping?,1,1
+84,Do you see any black or brown spots on the stem?,1,1
+84,Are ants or other insects more active around the tiller base?,0,1
+84,Has the tiller growth slowed down recently?,0,1
+85,Are the stems (tillers) shorter than usual?,1,0
+85,Do you smell any unusual or rotten odor near the plant base?,0,0
+85,Can you easily pull the roots out of the soil?,0,0
+85,Are you noticing yellowing on the lower stems?,0,0
+85,Do the tillers appear dry or brittle?,0,0
+85,Is there a soft mushy texture near the base of the stem?,0,0
+85,Are any of the tillers wilted or drooping?,1,0
+85,Do you see any black or brown spots on the stem?,0,0
+85,Are ants or other insects more active around the tiller base?,0,0
+85,Has the tiller growth slowed down recently?,0,0
+86,Are the stems (tillers) shorter than usual?,0,0
+86,Do you smell any unusual or rotten odor near the plant base?,0,0
+86,Can you easily pull the roots out of the soil?,0,0
+86,Are you noticing yellowing on the lower stems?,0,0
+86,Do the tillers appear dry or brittle?,1,0
+86,Is there a soft mushy texture near the base of the stem?,1,0
+86,Are any of the tillers wilted or drooping?,1,0
+86,Do you see any black or brown spots on the stem?,1,0
+86,Are ants or other insects more active around the tiller base?,0,0
+86,Has the tiller growth slowed down recently?,1,0
+87,Are the stems (tillers) shorter than usual?,0,0
+87,Do you smell any unusual or rotten odor near the plant base?,0,0
+87,Can you easily pull the roots out of the soil?,1,0
+87,Are you noticing yellowing on the lower stems?,1,0
+87,Do the tillers appear dry or brittle?,0,0
+87,Is there a soft mushy texture near the base of the stem?,0,0
+87,Are any of the tillers wilted or drooping?,0,0
+87,Do you see any black or brown spots on the stem?,1,0
+87,Are ants or other insects more active around the tiller base?,0,0
+87,Has the tiller growth slowed down recently?,0,0
+88,Are the stems (tillers) shorter than usual?,1,1
+88,Do you smell any unusual or rotten odor near the plant base?,1,1
+88,Can you easily pull the roots out of the soil?,1,1
+88,Are you noticing yellowing on the lower stems?,1,1
+88,Do the tillers appear dry or brittle?,1,1
+88,Is there a soft mushy texture near the base of the stem?,0,1
+88,Are any of the tillers wilted or drooping?,1,1
+88,Do you see any black or brown spots on the stem?,0,1
+88,Are ants or other insects more active around the tiller base?,1,1
+88,Has the tiller growth slowed down recently?,0,1
+89,Are the stems (tillers) shorter than usual?,0,0
+89,Do you smell any unusual or rotten odor near the plant base?,0,0
+89,Can you easily pull the roots out of the soil?,1,0
+89,Are you noticing yellowing on the lower stems?,1,0
+89,Do the tillers appear dry or brittle?,0,0
+89,Is there a soft mushy texture near the base of the stem?,0,0
+89,Are any of the tillers wilted or drooping?,0,0
+89,Do you see any black or brown spots on the stem?,0,0
+89,Are ants or other insects more active around the tiller base?,1,0
+89,Has the tiller growth slowed down recently?,0,0
+90,Are the stems (tillers) shorter than usual?,0,0
+90,Do you smell any unusual or rotten odor near the plant base?,0,0
+90,Can you easily pull the roots out of the soil?,1,0
+90,Are you noticing yellowing on the lower stems?,0,0
+90,Do the tillers appear dry or brittle?,0,0
+90,Is there a soft mushy texture near the base of the stem?,0,0
+90,Are any of the tillers wilted or drooping?,0,0
+90,Do you see any black or brown spots on the stem?,0,0
+90,Are ants or other insects more active around the tiller base?,0,0
+90,Has the tiller growth slowed down recently?,1,0
+91,Are the stems (tillers) shorter than usual?,1,1
+91,Do you smell any unusual or rotten odor near the plant base?,1,1
+91,Can you easily pull the roots out of the soil?,0,1
+91,Are you noticing yellowing on the lower stems?,1,1
+91,Do the tillers appear dry or brittle?,0,1
+91,Is there a soft mushy texture near the base of the stem?,1,1
+91,Are any of the tillers wilted or drooping?,1,1
+91,Do you see any black or brown spots on the stem?,1,1
+91,Are ants or other insects more active around the tiller base?,1,1
+91,Has the tiller growth slowed down recently?,1,1
+92,Are the stems (tillers) shorter than usual?,1,1
+92,Do you smell any unusual or rotten odor near the plant base?,0,1
+92,Can you easily pull the roots out of the soil?,1,1
+92,Are you noticing yellowing on the lower stems?,1,1
+92,Do the tillers appear dry or brittle?,1,1
+92,Is there a soft mushy texture near the base of the stem?,1,1
+92,Are any of the tillers wilted or drooping?,1,1
+92,Do you see any black or brown spots on the stem?,1,1
+92,Are ants or other insects more active around the tiller base?,0,1
+92,Has the tiller growth slowed down recently?,1,1
+93,Are the stems (tillers) shorter than usual?,1,1
+93,Do you smell any unusual or rotten odor near the plant base?,0,1
+93,Can you easily pull the roots out of the soil?,1,1
+93,Are you noticing yellowing on the lower stems?,1,1
+93,Do the tillers appear dry or brittle?,1,1
+93,Is there a soft mushy texture near the base of the stem?,1,1
+93,Are any of the tillers wilted or drooping?,1,1
+93,Do you see any black or brown spots on the stem?,1,1
+93,Are ants or other insects more active around the tiller base?,1,1
+93,Has the tiller growth slowed down recently?,0,1
+94,Are the stems (tillers) shorter than usual?,0,1
+94,Do you smell any unusual or rotten odor near the plant base?,0,1
+94,Can you easily pull the roots out of the soil?,0,1
+94,Are you noticing yellowing on the lower stems?,0,1
+94,Do the tillers appear dry or brittle?,1,1
+94,Is there a soft mushy texture near the base of the stem?,0,1
+94,Are any of the tillers wilted or drooping?,1,1
+94,Do you see any black or brown spots on the stem?,1,1
+94,Are ants or other insects more active around the tiller base?,0,1
+94,Has the tiller growth slowed down recently?,1,1
+95,Are the stems (tillers) shorter than usual?,1,1
+95,Do you smell any unusual or rotten odor near the plant base?,0,1
+95,Can you easily pull the roots out of the soil?,1,1
+95,Are you noticing yellowing on the lower stems?,1,1
+95,Do the tillers appear dry or brittle?,1,1
+95,Is there a soft mushy texture near the base of the stem?,1,1
+95,Are any of the tillers wilted or drooping?,0,1
+95,Do you see any black or brown spots on the stem?,1,1
+95,Are ants or other insects more active around the tiller base?,1,1
+95,Has the tiller growth slowed down recently?,0,1
+96,Are the stems (tillers) shorter than usual?,0,0
+96,Do you smell any unusual or rotten odor near the plant base?,0,0
+96,Can you easily pull the roots out of the soil?,1,0
+96,Are you noticing yellowing on the lower stems?,0,0
+96,Do the tillers appear dry or brittle?,0,0
+96,Is there a soft mushy texture near the base of the stem?,1,0
+96,Are any of the tillers wilted or drooping?,0,0
+96,Do you see any black or brown spots on the stem?,0,0
+96,Are ants or other insects more active around the tiller base?,0,0
+96,Has the tiller growth slowed down recently?,1,0
+97,Are the stems (tillers) shorter than usual?,1,1
+97,Do you smell any unusual or rotten odor near the plant base?,1,1
+97,Can you easily pull the roots out of the soil?,1,1
+97,Are you noticing yellowing on the lower stems?,0,1
+97,Do the tillers appear dry or brittle?,1,1
+97,Is there a soft mushy texture near the base of the stem?,1,1
+97,Are any of the tillers wilted or drooping?,1,1
+97,Do you see any black or brown spots on the stem?,0,1
+97,Are ants or other insects more active around the tiller base?,1,1
+97,Has the tiller growth slowed down recently?,0,1
+98,Are the stems (tillers) shorter than usual?,1,0
+98,Do you smell any unusual or rotten odor near the plant base?,0,0
+98,Can you easily pull the roots out of the soil?,1,0
+98,Are you noticing yellowing on the lower stems?,1,0
+98,Do the tillers appear dry or brittle?,0,0
+98,Is there a soft mushy texture near the base of the stem?,0,0
+98,Are any of the tillers wilted or drooping?,0,0
+98,Do you see any black or brown spots on the stem?,0,0
+98,Are ants or other insects more active around the tiller base?,0,0
+98,Has the tiller growth slowed down recently?,0,0
+99,Are the stems (tillers) shorter than usual?,1,1
+99,Do you smell any unusual or rotten odor near the plant base?,1,1
+99,Can you easily pull the roots out of the soil?,1,1
+99,Are you noticing yellowing on the lower stems?,0,1
+99,Do the tillers appear dry or brittle?,1,1
+99,Is there a soft mushy texture near the base of the stem?,1,1
+99,Are any of the tillers wilted or drooping?,1,1
+99,Do you see any black or brown spots on the stem?,0,1
+99,Are ants or other insects more active around the tiller base?,1,1
+99,Has the tiller growth slowed down recently?,1,1
+100,Are the stems (tillers) shorter than usual?,1,1
+100,Do you smell any unusual or rotten odor near the plant base?,1,1
+100,Can you easily pull the roots out of the soil?,1,1
+100,Are you noticing yellowing on the lower stems?,0,1
+100,Do the tillers appear dry or brittle?,1,1
+100,Is there a soft mushy texture near the base of the stem?,0,1
+100,Are any of the tillers wilted or drooping?,1,1
+100,Do you see any black or brown spots on the stem?,1,1
+100,Are ants or other insects more active around the tiller base?,1,1
+100,Has the tiller growth slowed down recently?,1,1
+101,Are the stems (tillers) shorter than usual?,0,0
+101,Do you smell any unusual or rotten odor near the plant base?,0,0
+101,Can you easily pull the roots out of the soil?,0,0
+101,Are you noticing yellowing on the lower stems?,0,0
+101,Do the tillers appear dry or brittle?,1,0
+101,Is there a soft mushy texture near the base of the stem?,1,0
+101,Are any of the tillers wilted or drooping?,0,0
+101,Do you see any black or brown spots on the stem?,0,0
+101,Are ants or other insects more active around the tiller base?,1,0
+101,Has the tiller growth slowed down recently?,0,0
+102,Are the stems (tillers) shorter than usual?,1,0
+102,Do you smell any unusual or rotten odor near the plant base?,1,0
+102,Can you easily pull the roots out of the soil?,0,0
+102,Are you noticing yellowing on the lower stems?,0,0
+102,Do the tillers appear dry or brittle?,0,0
+102,Is there a soft mushy texture near the base of the stem?,0,0
+102,Are any of the tillers wilted or drooping?,0,0
+102,Do you see any black or brown spots on the stem?,0,0
+102,Are ants or other insects more active around the tiller base?,1,0
+102,Has the tiller growth slowed down recently?,0,0
+103,Are the stems (tillers) shorter than usual?,1,0
+103,Do you smell any unusual or rotten odor near the plant base?,1,0
+103,Can you easily pull the roots out of the soil?,0,0
+103,Are you noticing yellowing on the lower stems?,0,0
+103,Do the tillers appear dry or brittle?,0,0
+103,Is there a soft mushy texture near the base of the stem?,0,0
+103,Are any of the tillers wilted or drooping?,0,0
+103,Do you see any black or brown spots on the stem?,0,0
+103,Are ants or other insects more active around the tiller base?,0,0
+103,Has the tiller growth slowed down recently?,1,0
+104,Are the stems (tillers) shorter than usual?,1,0
+104,Do you smell any unusual or rotten odor near the plant base?,1,0
+104,Can you easily pull the roots out of the soil?,0,0
+104,Are you noticing yellowing on the lower stems?,0,0
+104,Do the tillers appear dry or brittle?,0,0
+104,Is there a soft mushy texture near the base of the stem?,1,0
+104,Are any of the tillers wilted or drooping?,1,0
+104,Do you see any black or brown spots on the stem?,0,0
+104,Are ants or other insects more active around the tiller base?,0,0
+104,Has the tiller growth slowed down recently?,1,0
+105,Are the stems (tillers) shorter than usual?,0,0
+105,Do you smell any unusual or rotten odor near the plant base?,0,0
+105,Can you easily pull the roots out of the soil?,1,0
+105,Are you noticing yellowing on the lower stems?,1,0
+105,Do the tillers appear dry or brittle?,0,0
+105,Is there a soft mushy texture near the base of the stem?,1,0
+105,Are any of the tillers wilted or drooping?,0,0
+105,Do you see any black or brown spots on the stem?,0,0
+105,Are ants or other insects more active around the tiller base?,0,0
+105,Has the tiller growth slowed down recently?,0,0
+106,Are the stems (tillers) shorter than usual?,0,0
+106,Do you smell any unusual or rotten odor near the plant base?,0,0
+106,Can you easily pull the roots out of the soil?,1,0
+106,Are you noticing yellowing on the lower stems?,1,0
+106,Do the tillers appear dry or brittle?,1,0
+106,Is there a soft mushy texture near the base of the stem?,1,0
+106,Are any of the tillers wilted or drooping?,1,0
+106,Do you see any black or brown spots on the stem?,1,0
+106,Are ants or other insects more active around the tiller base?,0,0
+106,Has the tiller growth slowed down recently?,0,0
+107,Are the stems (tillers) shorter than usual?,0,0
+107,Do you smell any unusual or rotten odor near the plant base?,0,0
+107,Can you easily pull the roots out of the soil?,0,0
+107,Are you noticing yellowing on the lower stems?,0,0
+107,Do the tillers appear dry or brittle?,1,0
+107,Is there a soft mushy texture near the base of the stem?,0,0
+107,Are any of the tillers wilted or drooping?,1,0
+107,Do you see any black or brown spots on the stem?,0,0
+107,Are ants or other insects more active around the tiller base?,1,0
+107,Has the tiller growth slowed down recently?,1,0
+108,Are the stems (tillers) shorter than usual?,1,1
+108,Do you smell any unusual or rotten odor near the plant base?,1,1
+108,Can you easily pull the roots out of the soil?,0,1
+108,Are you noticing yellowing on the lower stems?,0,1
+108,Do the tillers appear dry or brittle?,1,1
+108,Is there a soft mushy texture near the base of the stem?,0,1
+108,Are any of the tillers wilted or drooping?,1,1
+108,Do you see any black or brown spots on the stem?,1,1
+108,Are ants or other insects more active around the tiller base?,0,1
+108,Has the tiller growth slowed down recently?,1,1
+109,Are the stems (tillers) shorter than usual?,1,1
+109,Do you smell any unusual or rotten odor near the plant base?,1,1
+109,Can you easily pull the roots out of the soil?,0,1
+109,Are you noticing yellowing on the lower stems?,0,1
+109,Do the tillers appear dry or brittle?,1,1
+109,Is there a soft mushy texture near the base of the stem?,1,1
+109,Are any of the tillers wilted or drooping?,0,1
+109,Do you see any black or brown spots on the stem?,1,1
+109,Are ants or other insects more active around the tiller base?,0,1
+109,Has the tiller growth slowed down recently?,1,1
+110,Are the stems (tillers) shorter than usual?,0,0
+110,Do you smell any unusual or rotten odor near the plant base?,0,0
+110,Can you easily pull the roots out of the soil?,0,0
+110,Are you noticing yellowing on the lower stems?,1,0
+110,Do the tillers appear dry or brittle?,0,0
+110,Is there a soft mushy texture near the base of the stem?,1,0
+110,Are any of the tillers wilted or drooping?,0,0
+110,Do you see any black or brown spots on the stem?,0,0
+110,Are ants or other insects more active around the tiller base?,0,0
+110,Has the tiller growth slowed down recently?,1,0
+111,Are the stems (tillers) shorter than usual?,0,1
+111,Do you smell any unusual or rotten odor near the plant base?,0,1
+111,Can you easily pull the roots out of the soil?,0,1
+111,Are you noticing yellowing on the lower stems?,1,1
+111,Do the tillers appear dry or brittle?,1,1
+111,Is there a soft mushy texture near the base of the stem?,1,1
+111,Are any of the tillers wilted or drooping?,1,1
+111,Do you see any black or brown spots on the stem?,1,1
+111,Are ants or other insects more active around the tiller base?,0,1
+111,Has the tiller growth slowed down recently?,1,1
+112,Are the stems (tillers) shorter than usual?,0,0
+112,Do you smell any unusual or rotten odor near the plant base?,0,0
+112,Can you easily pull the roots out of the soil?,0,0
+112,Are you noticing yellowing on the lower stems?,0,0
+112,Do the tillers appear dry or brittle?,1,0
+112,Is there a soft mushy texture near the base of the stem?,0,0
+112,Are any of the tillers wilted or drooping?,0,0
+112,Do you see any black or brown spots on the stem?,1,0
+112,Are ants or other insects more active around the tiller base?,0,0
+112,Has the tiller growth slowed down recently?,0,0
+113,Are the stems (tillers) shorter than usual?,0,0
+113,Do you smell any unusual or rotten odor near the plant base?,0,0
+113,Can you easily pull the roots out of the soil?,1,0
+113,Are you noticing yellowing on the lower stems?,0,0
+113,Do the tillers appear dry or brittle?,0,0
+113,Is there a soft mushy texture near the base of the stem?,0,0
+113,Are any of the tillers wilted or drooping?,0,0
+113,Do you see any black or brown spots on the stem?,0,0
+113,Are ants or other insects more active around the tiller base?,0,0
+113,Has the tiller growth slowed down recently?,0,0
+114,Are the stems (tillers) shorter than usual?,1,1
+114,Do you smell any unusual or rotten odor near the plant base?,1,1
+114,Can you easily pull the roots out of the soil?,0,1
+114,Are you noticing yellowing on the lower stems?,0,1
+114,Do the tillers appear dry or brittle?,1,1
+114,Is there a soft mushy texture near the base of the stem?,0,1
+114,Are any of the tillers wilted or drooping?,1,1
+114,Do you see any black or brown spots on the stem?,0,1
+114,Are ants or other insects more active around the tiller base?,1,1
+114,Has the tiller growth slowed down recently?,1,1
+115,Are the stems (tillers) shorter than usual?,0,0
+115,Do you smell any unusual or rotten odor near the plant base?,0,0
+115,Can you easily pull the roots out of the soil?,0,0
+115,Are you noticing yellowing on the lower stems?,0,0
+115,Do the tillers appear dry or brittle?,1,0
+115,Is there a soft mushy texture near the base of the stem?,0,0
+115,Are any of the tillers wilted or drooping?,0,0
+115,Do you see any black or brown spots on the stem?,1,0
+115,Are ants or other insects more active around the tiller base?,0,0
+115,Has the tiller growth slowed down recently?,1,0
+116,Are the stems (tillers) shorter than usual?,1,1
+116,Do you smell any unusual or rotten odor near the plant base?,0,1
+116,Can you easily pull the roots out of the soil?,1,1
+116,Are you noticing yellowing on the lower stems?,1,1
+116,Do the tillers appear dry or brittle?,1,1
+116,Is there a soft mushy texture near the base of the stem?,1,1
+116,Are any of the tillers wilted or drooping?,0,1
+116,Do you see any black or brown spots on the stem?,1,1
+116,Are ants or other insects more active around the tiller base?,1,1
+116,Has the tiller growth slowed down recently?,0,1
+117,Are the stems (tillers) shorter than usual?,0,1
+117,Do you smell any unusual or rotten odor near the plant base?,1,1
+117,Can you easily pull the roots out of the soil?,1,1
+117,Are you noticing yellowing on the lower stems?,1,1
+117,Do the tillers appear dry or brittle?,1,1
+117,Is there a soft mushy texture near the base of the stem?,1,1
+117,Are any of the tillers wilted or drooping?,1,1
+117,Do you see any black or brown spots on the stem?,1,1
+117,Are ants or other insects more active around the tiller base?,0,1
+117,Has the tiller growth slowed down recently?,1,1
+118,Are the stems (tillers) shorter than usual?,0,0
+118,Do you smell any unusual or rotten odor near the plant base?,0,0
+118,Can you easily pull the roots out of the soil?,1,0
+118,Are you noticing yellowing on the lower stems?,0,0
+118,Do the tillers appear dry or brittle?,1,0
+118,Is there a soft mushy texture near the base of the stem?,0,0
+118,Are any of the tillers wilted or drooping?,0,0
+118,Do you see any black or brown spots on the stem?,0,0
+118,Are ants or other insects more active around the tiller base?,0,0
+118,Has the tiller growth slowed down recently?,0,0
+119,Are the stems (tillers) shorter than usual?,0,0
+119,Do you smell any unusual or rotten odor near the plant base?,1,0
+119,Can you easily pull the roots out of the soil?,1,0
+119,Are you noticing yellowing on the lower stems?,0,0
+119,Do the tillers appear dry or brittle?,0,0
+119,Is there a soft mushy texture near the base of the stem?,0,0
+119,Are any of the tillers wilted or drooping?,0,0
+119,Do you see any black or brown spots on the stem?,1,0
+119,Are ants or other insects more active around the tiller base?,1,0
+119,Has the tiller growth slowed down recently?,0,0
+120,Are the stems (tillers) shorter than usual?,1,1
+120,Do you smell any unusual or rotten odor near the plant base?,1,1
+120,Can you easily pull the roots out of the soil?,1,1
+120,Are you noticing yellowing on the lower stems?,1,1
+120,Do the tillers appear dry or brittle?,1,1
+120,Is there a soft mushy texture near the base of the stem?,0,1
+120,Are any of the tillers wilted or drooping?,0,1
+120,Do you see any black or brown spots on the stem?,1,1
+120,Are ants or other insects more active around the tiller base?,0,1
+120,Has the tiller growth slowed down recently?,1,1
+121,Are the stems (tillers) shorter than usual?,0,0
+121,Do you smell any unusual or rotten odor near the plant base?,0,0
+121,Can you easily pull the roots out of the soil?,0,0
+121,Are you noticing yellowing on the lower stems?,0,0
+121,Do the tillers appear dry or brittle?,0,0
+121,Is there a soft mushy texture near the base of the stem?,0,0
+121,Are any of the tillers wilted or drooping?,0,0
+121,Do you see any black or brown spots on the stem?,1,0
+121,Are ants or other insects more active around the tiller base?,0,0
+121,Has the tiller growth slowed down recently?,0,0
+122,Are the stems (tillers) shorter than usual?,0,0
+122,Do you smell any unusual or rotten odor near the plant base?,0,0
+122,Can you easily pull the roots out of the soil?,0,0
+122,Are you noticing yellowing on the lower stems?,0,0
+122,Do the tillers appear dry or brittle?,0,0
+122,Is there a soft mushy texture near the base of the stem?,0,0
+122,Are any of the tillers wilted or drooping?,1,0
+122,Do you see any black or brown spots on the stem?,0,0
+122,Are ants or other insects more active around the tiller base?,0,0
+122,Has the tiller growth slowed down recently?,1,0
+123,Are the stems (tillers) shorter than usual?,0,0
+123,Do you smell any unusual or rotten odor near the plant base?,0,0
+123,Can you easily pull the roots out of the soil?,0,0
+123,Are you noticing yellowing on the lower stems?,0,0
+123,Do the tillers appear dry or brittle?,0,0
+123,Is there a soft mushy texture near the base of the stem?,0,0
+123,Are any of the tillers wilted or drooping?,0,0
+123,Do you see any black or brown spots on the stem?,0,0
+123,Are ants or other insects more active around the tiller base?,0,0
+123,Has the tiller growth slowed down recently?,0,0
+124,Are the stems (tillers) shorter than usual?,1,1
+124,Do you smell any unusual or rotten odor near the plant base?,1,1
+124,Can you easily pull the roots out of the soil?,1,1
+124,Are you noticing yellowing on the lower stems?,1,1
+124,Do the tillers appear dry or brittle?,1,1
+124,Is there a soft mushy texture near the base of the stem?,1,1
+124,Are any of the tillers wilted or drooping?,1,1
+124,Do you see any black or brown spots on the stem?,0,1
+124,Are ants or other insects more active around the tiller base?,1,1
+124,Has the tiller growth slowed down recently?,1,1
+125,Are the stems (tillers) shorter than usual?,0,0
+125,Do you smell any unusual or rotten odor near the plant base?,0,0
+125,Can you easily pull the roots out of the soil?,0,0
+125,Are you noticing yellowing on the lower stems?,0,0
+125,Do the tillers appear dry or brittle?,0,0
+125,Is there a soft mushy texture near the base of the stem?,0,0
+125,Are any of the tillers wilted or drooping?,0,0
+125,Do you see any black or brown spots on the stem?,0,0
+125,Are ants or other insects more active around the tiller base?,0,0
+125,Has the tiller growth slowed down recently?,0,0
+126,Are the stems (tillers) shorter than usual?,0,0
+126,Do you smell any unusual or rotten odor near the plant base?,1,0
+126,Can you easily pull the roots out of the soil?,0,0
+126,Are you noticing yellowing on the lower stems?,1,0
+126,Do the tillers appear dry or brittle?,1,0
+126,Is there a soft mushy texture near the base of the stem?,0,0
+126,Are any of the tillers wilted or drooping?,0,0
+126,Do you see any black or brown spots on the stem?,0,0
+126,Are ants or other insects more active around the tiller base?,0,0
+126,Has the tiller growth slowed down recently?,1,0
+127,Are the stems (tillers) shorter than usual?,1,1
+127,Do you smell any unusual or rotten odor near the plant base?,0,1
+127,Can you easily pull the roots out of the soil?,0,1
+127,Are you noticing yellowing on the lower stems?,0,1
+127,Do the tillers appear dry or brittle?,1,1
+127,Is there a soft mushy texture near the base of the stem?,1,1
+127,Are any of the tillers wilted or drooping?,0,1
+127,Do you see any black or brown spots on the stem?,1,1
+127,Are ants or other insects more active around the tiller base?,1,1
+127,Has the tiller growth slowed down recently?,1,1
+128,Are the stems (tillers) shorter than usual?,1,1
+128,Do you smell any unusual or rotten odor near the plant base?,1,1
+128,Can you easily pull the roots out of the soil?,1,1
+128,Are you noticing yellowing on the lower stems?,0,1
+128,Do the tillers appear dry or brittle?,1,1
+128,Is there a soft mushy texture near the base of the stem?,0,1
+128,Are any of the tillers wilted or drooping?,0,1
+128,Do you see any black or brown spots on the stem?,1,1
+128,Are ants or other insects more active around the tiller base?,1,1
+128,Has the tiller growth slowed down recently?,1,1
+129,Are the stems (tillers) shorter than usual?,0,0
+129,Do you smell any unusual or rotten odor near the plant base?,0,0
+129,Can you easily pull the roots out of the soil?,1,0
+129,Are you noticing yellowing on the lower stems?,0,0
+129,Do the tillers appear dry or brittle?,0,0
+129,Is there a soft mushy texture near the base of the stem?,1,0
+129,Are any of the tillers wilted or drooping?,0,0
+129,Do you see any black or brown spots on the stem?,0,0
+129,Are ants or other insects more active around the tiller base?,0,0
+129,Has the tiller growth slowed down recently?,0,0
+130,Are the stems (tillers) shorter than usual?,1,1
+130,Do you smell any unusual or rotten odor near the plant base?,1,1
+130,Can you easily pull the roots out of the soil?,1,1
+130,Are you noticing yellowing on the lower stems?,0,1
+130,Do the tillers appear dry or brittle?,1,1
+130,Is there a soft mushy texture near the base of the stem?,1,1
+130,Are any of the tillers wilted or drooping?,0,1
+130,Do you see any black or brown spots on the stem?,1,1
+130,Are ants or other insects more active around the tiller base?,1,1
+130,Has the tiller growth slowed down recently?,0,1
+131,Are the stems (tillers) shorter than usual?,0,0
+131,Do you smell any unusual or rotten odor near the plant base?,1,0
+131,Can you easily pull the roots out of the soil?,0,0
+131,Are you noticing yellowing on the lower stems?,0,0
+131,Do the tillers appear dry or brittle?,1,0
+131,Is there a soft mushy texture near the base of the stem?,0,0
+131,Are any of the tillers wilted or drooping?,1,0
+131,Do you see any black or brown spots on the stem?,1,0
+131,Are ants or other insects more active around the tiller base?,0,0
+131,Has the tiller growth slowed down recently?,0,0
+132,Are the stems (tillers) shorter than usual?,0,0
+132,Do you smell any unusual or rotten odor near the plant base?,0,0
+132,Can you easily pull the roots out of the soil?,0,0
+132,Are you noticing yellowing on the lower stems?,0,0
+132,Do the tillers appear dry or brittle?,0,0
+132,Is there a soft mushy texture near the base of the stem?,0,0
+132,Are any of the tillers wilted or drooping?,1,0
+132,Do you see any black or brown spots on the stem?,0,0
+132,Are ants or other insects more active around the tiller base?,0,0
+132,Has the tiller growth slowed down recently?,0,0
+133,Are the stems (tillers) shorter than usual?,1,0
+133,Do you smell any unusual or rotten odor near the plant base?,0,0
+133,Can you easily pull the roots out of the soil?,0,0
+133,Are you noticing yellowing on the lower stems?,0,0
+133,Do the tillers appear dry or brittle?,0,0
+133,Is there a soft mushy texture near the base of the stem?,0,0
+133,Are any of the tillers wilted or drooping?,1,0
+133,Do you see any black or brown spots on the stem?,1,0
+133,Are ants or other insects more active around the tiller base?,0,0
+133,Has the tiller growth slowed down recently?,0,0
+134,Are the stems (tillers) shorter than usual?,1,1
+134,Do you smell any unusual or rotten odor near the plant base?,0,1
+134,Can you easily pull the roots out of the soil?,1,1
+134,Are you noticing yellowing on the lower stems?,1,1
+134,Do the tillers appear dry or brittle?,1,1
+134,Is there a soft mushy texture near the base of the stem?,1,1
+134,Are any of the tillers wilted or drooping?,1,1
+134,Do you see any black or brown spots on the stem?,0,1
+134,Are ants or other insects more active around the tiller base?,1,1
+134,Has the tiller growth slowed down recently?,1,1
+135,Are the stems (tillers) shorter than usual?,0,0
+135,Do you smell any unusual or rotten odor near the plant base?,0,0
+135,Can you easily pull the roots out of the soil?,1,0
+135,Are you noticing yellowing on the lower stems?,0,0
+135,Do the tillers appear dry or brittle?,0,0
+135,Is there a soft mushy texture near the base of the stem?,0,0
+135,Are any of the tillers wilted or drooping?,1,0
+135,Do you see any black or brown spots on the stem?,0,0
+135,Are ants or other insects more active around the tiller base?,0,0
+135,Has the tiller growth slowed down recently?,1,0
+136,Are the stems (tillers) shorter than usual?,0,0
+136,Do you smell any unusual or rotten odor near the plant base?,1,0
+136,Can you easily pull the roots out of the soil?,0,0
+136,Are you noticing yellowing on the lower stems?,1,0
+136,Do the tillers appear dry or brittle?,0,0
+136,Is there a soft mushy texture near the base of the stem?,1,0
+136,Are any of the tillers wilted or drooping?,0,0
+136,Do you see any black or brown spots on the stem?,1,0
+136,Are ants or other insects more active around the tiller base?,0,0
+136,Has the tiller growth slowed down recently?,0,0
+137,Are the stems (tillers) shorter than usual?,1,1
+137,Do you smell any unusual or rotten odor near the plant base?,1,1
+137,Can you easily pull the roots out of the soil?,1,1
+137,Are you noticing yellowing on the lower stems?,1,1
+137,Do the tillers appear dry or brittle?,1,1
+137,Is there a soft mushy texture near the base of the stem?,0,1
+137,Are any of the tillers wilted or drooping?,1,1
+137,Do you see any black or brown spots on the stem?,1,1
+137,Are ants or other insects more active around the tiller base?,0,1
+137,Has the tiller growth slowed down recently?,1,1
+138,Are the stems (tillers) shorter than usual?,0,1
+138,Do you smell any unusual or rotten odor near the plant base?,1,1
+138,Can you easily pull the roots out of the soil?,1,1
+138,Are you noticing yellowing on the lower stems?,0,1
+138,Do the tillers appear dry or brittle?,0,1
+138,Is there a soft mushy texture near the base of the stem?,1,1
+138,Are any of the tillers wilted or drooping?,1,1
+138,Do you see any black or brown spots on the stem?,1,1
+138,Are ants or other insects more active around the tiller base?,1,1
+138,Has the tiller growth slowed down recently?,1,1
+139,Are the stems (tillers) shorter than usual?,0,1
+139,Do you smell any unusual or rotten odor near the plant base?,0,1
+139,Can you easily pull the roots out of the soil?,0,1
+139,Are you noticing yellowing on the lower stems?,1,1
+139,Do the tillers appear dry or brittle?,0,1
+139,Is there a soft mushy texture near the base of the stem?,1,1
+139,Are any of the tillers wilted or drooping?,1,1
+139,Do you see any black or brown spots on the stem?,1,1
+139,Are ants or other insects more active around the tiller base?,1,1
+139,Has the tiller growth slowed down recently?,1,1
+140,Are the stems (tillers) shorter than usual?,0,1
+140,Do you smell any unusual or rotten odor near the plant base?,1,1
+140,Can you easily pull the roots out of the soil?,1,1
+140,Are you noticing yellowing on the lower stems?,0,1
+140,Do the tillers appear dry or brittle?,0,1
+140,Is there a soft mushy texture near the base of the stem?,1,1
+140,Are any of the tillers wilted or drooping?,1,1
+140,Do you see any black or brown spots on the stem?,1,1
+140,Are ants or other insects more active around the tiller base?,1,1
+140,Has the tiller growth slowed down recently?,1,1
+141,Are the stems (tillers) shorter than usual?,0,0
+141,Do you smell any unusual or rotten odor near the plant base?,0,0
+141,Can you easily pull the roots out of the soil?,0,0
+141,Are you noticing yellowing on the lower stems?,0,0
+141,Do the tillers appear dry or brittle?,0,0
+141,Is there a soft mushy texture near the base of the stem?,1,0
+141,Are any of the tillers wilted or drooping?,1,0
+141,Do you see any black or brown spots on the stem?,1,0
+141,Are ants or other insects more active around the tiller base?,1,0
+141,Has the tiller growth slowed down recently?,1,0
+142,Are the stems (tillers) shorter than usual?,0,0
+142,Do you smell any unusual or rotten odor near the plant base?,1,0
+142,Can you easily pull the roots out of the soil?,1,0
+142,Are you noticing yellowing on the lower stems?,1,0
+142,Do the tillers appear dry or brittle?,0,0
+142,Is there a soft mushy texture near the base of the stem?,0,0
+142,Are any of the tillers wilted or drooping?,0,0
+142,Do you see any black or brown spots on the stem?,0,0
+142,Are ants or other insects more active around the tiller base?,0,0
+142,Has the tiller growth slowed down recently?,0,0
+143,Are the stems (tillers) shorter than usual?,1,1
+143,Do you smell any unusual or rotten odor near the plant base?,1,1
+143,Can you easily pull the roots out of the soil?,1,1
+143,Are you noticing yellowing on the lower stems?,1,1
+143,Do the tillers appear dry or brittle?,0,1
+143,Is there a soft mushy texture near the base of the stem?,1,1
+143,Are any of the tillers wilted or drooping?,1,1
+143,Do you see any black or brown spots on the stem?,1,1
+143,Are ants or other insects more active around the tiller base?,1,1
+143,Has the tiller growth slowed down recently?,1,1
+144,Are the stems (tillers) shorter than usual?,1,1
+144,Do you smell any unusual or rotten odor near the plant base?,1,1
+144,Can you easily pull the roots out of the soil?,0,1
+144,Are you noticing yellowing on the lower stems?,1,1
+144,Do the tillers appear dry or brittle?,1,1
+144,Is there a soft mushy texture near the base of the stem?,1,1
+144,Are any of the tillers wilted or drooping?,1,1
+144,Do you see any black or brown spots on the stem?,1,1
+144,Are ants or other insects more active around the tiller base?,1,1
+144,Has the tiller growth slowed down recently?,1,1
+145,Are the stems (tillers) shorter than usual?,1,1
+145,Do you smell any unusual or rotten odor near the plant base?,1,1
+145,Can you easily pull the roots out of the soil?,1,1
+145,Are you noticing yellowing on the lower stems?,0,1
+145,Do the tillers appear dry or brittle?,1,1
+145,Is there a soft mushy texture near the base of the stem?,1,1
+145,Are any of the tillers wilted or drooping?,1,1
+145,Do you see any black or brown spots on the stem?,1,1
+145,Are ants or other insects more active around the tiller base?,1,1
+145,Has the tiller growth slowed down recently?,1,1
+146,Are the stems (tillers) shorter than usual?,0,0
+146,Do you smell any unusual or rotten odor near the plant base?,0,0
+146,Can you easily pull the roots out of the soil?,0,0
+146,Are you noticing yellowing on the lower stems?,1,0
+146,Do the tillers appear dry or brittle?,0,0
+146,Is there a soft mushy texture near the base of the stem?,1,0
+146,Are any of the tillers wilted or drooping?,1,0
+146,Do you see any black or brown spots on the stem?,0,0
+146,Are ants or other insects more active around the tiller base?,1,0
+146,Has the tiller growth slowed down recently?,1,0
+147,Are the stems (tillers) shorter than usual?,0,1
+147,Do you smell any unusual or rotten odor near the plant base?,1,1
+147,Can you easily pull the roots out of the soil?,1,1
+147,Are you noticing yellowing on the lower stems?,1,1
+147,Do the tillers appear dry or brittle?,0,1
+147,Is there a soft mushy texture near the base of the stem?,1,1
+147,Are any of the tillers wilted or drooping?,1,1
+147,Do you see any black or brown spots on the stem?,1,1
+147,Are ants or other insects more active around the tiller base?,0,1
+147,Has the tiller growth slowed down recently?,1,1
+148,Are the stems (tillers) shorter than usual?,1,1
+148,Do you smell any unusual or rotten odor near the plant base?,1,1
+148,Can you easily pull the roots out of the soil?,1,1
+148,Are you noticing yellowing on the lower stems?,1,1
+148,Do the tillers appear dry or brittle?,1,1
+148,Is there a soft mushy texture near the base of the stem?,1,1
+148,Are any of the tillers wilted or drooping?,1,1
+148,Do you see any black or brown spots on the stem?,1,1
+148,Are ants or other insects more active around the tiller base?,1,1
+148,Has the tiller growth slowed down recently?,1,1
+149,Are the stems (tillers) shorter than usual?,0,0
+149,Do you smell any unusual or rotten odor near the plant base?,0,0
+149,Can you easily pull the roots out of the soil?,0,0
+149,Are you noticing yellowing on the lower stems?,1,0
+149,Do the tillers appear dry or brittle?,0,0
+149,Is there a soft mushy texture near the base of the stem?,0,0
+149,Are any of the tillers wilted or drooping?,0,0
+149,Do you see any black or brown spots on the stem?,1,0
+149,Are ants or other insects more active around the tiller base?,1,0
+149,Has the tiller growth slowed down recently?,0,0
+150,Are the stems (tillers) shorter than usual?,0,1
+150,Do you smell any unusual or rotten odor near the plant base?,1,1
+150,Can you easily pull the roots out of the soil?,0,1
+150,Are you noticing yellowing on the lower stems?,1,1
+150,Do the tillers appear dry or brittle?,1,1
+150,Is there a soft mushy texture near the base of the stem?,0,1
+150,Are any of the tillers wilted or drooping?,0,1
+150,Do you see any black or brown spots on the stem?,1,1
+150,Are ants or other insects more active around the tiller base?,1,1
+150,Has the tiller growth slowed down recently?,0,1
+151,Are the stems (tillers) shorter than usual?,1,1
+151,Do you smell any unusual or rotten odor near the plant base?,1,1
+151,Can you easily pull the roots out of the soil?,1,1
+151,Are you noticing yellowing on the lower stems?,0,1
+151,Do the tillers appear dry or brittle?,1,1
+151,Is there a soft mushy texture near the base of the stem?,1,1
+151,Are any of the tillers wilted or drooping?,0,1
+151,Do you see any black or brown spots on the stem?,1,1
+151,Are ants or other insects more active around the tiller base?,1,1
+151,Has the tiller growth slowed down recently?,1,1
+152,Are the stems (tillers) shorter than usual?,0,0
+152,Do you smell any unusual or rotten odor near the plant base?,0,0
+152,Can you easily pull the roots out of the soil?,0,0
+152,Are you noticing yellowing on the lower stems?,1,0
+152,Do the tillers appear dry or brittle?,0,0
+152,Is there a soft mushy texture near the base of the stem?,0,0
+152,Are any of the tillers wilted or drooping?,1,0
+152,Do you see any black or brown spots on the stem?,0,0
+152,Are ants or other insects more active around the tiller base?,0,0
+152,Has the tiller growth slowed down recently?,1,0
+153,Are the stems (tillers) shorter than usual?,0,0
+153,Do you smell any unusual or rotten odor near the plant base?,0,0
+153,Can you easily pull the roots out of the soil?,1,0
+153,Are you noticing yellowing on the lower stems?,0,0
+153,Do the tillers appear dry or brittle?,0,0
+153,Is there a soft mushy texture near the base of the stem?,0,0
+153,Are any of the tillers wilted or drooping?,0,0
+153,Do you see any black or brown spots on the stem?,1,0
+153,Are ants or other insects more active around the tiller base?,0,0
+153,Has the tiller growth slowed down recently?,0,0
+154,Are the stems (tillers) shorter than usual?,0,0
+154,Do you smell any unusual or rotten odor near the plant base?,1,0
+154,Can you easily pull the roots out of the soil?,0,0
+154,Are you noticing yellowing on the lower stems?,0,0
+154,Do the tillers appear dry or brittle?,0,0
+154,Is there a soft mushy texture near the base of the stem?,0,0
+154,Are any of the tillers wilted or drooping?,0,0
+154,Do you see any black or brown spots on the stem?,0,0
+154,Are ants or other insects more active around the tiller base?,0,0
+154,Has the tiller growth slowed down recently?,0,0
+155,Are the stems (tillers) shorter than usual?,1,1
+155,Do you smell any unusual or rotten odor near the plant base?,1,1
+155,Can you easily pull the roots out of the soil?,0,1
+155,Are you noticing yellowing on the lower stems?,0,1
+155,Do the tillers appear dry or brittle?,0,1
+155,Is there a soft mushy texture near the base of the stem?,1,1
+155,Are any of the tillers wilted or drooping?,1,1
+155,Do you see any black or brown spots on the stem?,1,1
+155,Are ants or other insects more active around the tiller base?,1,1
+155,Has the tiller growth slowed down recently?,1,1
+156,Are the stems (tillers) shorter than usual?,0,0
+156,Do you smell any unusual or rotten odor near the plant base?,1,0
+156,Can you easily pull the roots out of the soil?,0,0
+156,Are you noticing yellowing on the lower stems?,0,0
+156,Do the tillers appear dry or brittle?,0,0
+156,Is there a soft mushy texture near the base of the stem?,1,0
+156,Are any of the tillers wilted or drooping?,0,0
+156,Do you see any black or brown spots on the stem?,0,0
+156,Are ants or other insects more active around the tiller base?,1,0
+156,Has the tiller growth slowed down recently?,0,0
+157,Are the stems (tillers) shorter than usual?,0,0
+157,Do you smell any unusual or rotten odor near the plant base?,0,0
+157,Can you easily pull the roots out of the soil?,0,0
+157,Are you noticing yellowing on the lower stems?,1,0
+157,Do the tillers appear dry or brittle?,0,0
+157,Is there a soft mushy texture near the base of the stem?,1,0
+157,Are any of the tillers wilted or drooping?,0,0
+157,Do you see any black or brown spots on the stem?,1,0
+157,Are ants or other insects more active around the tiller base?,0,0
+157,Has the tiller growth slowed down recently?,0,0
+158,Are the stems (tillers) shorter than usual?,1,1
+158,Do you smell any unusual or rotten odor near the plant base?,0,1
+158,Can you easily pull the roots out of the soil?,1,1
+158,Are you noticing yellowing on the lower stems?,1,1
+158,Do the tillers appear dry or brittle?,0,1
+158,Is there a soft mushy texture near the base of the stem?,0,1
+158,Are any of the tillers wilted or drooping?,1,1
+158,Do you see any black or brown spots on the stem?,1,1
+158,Are ants or other insects more active around the tiller base?,1,1
+158,Has the tiller growth slowed down recently?,1,1
+159,Are the stems (tillers) shorter than usual?,0,0
+159,Do you smell any unusual or rotten odor near the plant base?,1,0
+159,Can you easily pull the roots out of the soil?,0,0
+159,Are you noticing yellowing on the lower stems?,0,0
+159,Do the tillers appear dry or brittle?,0,0
+159,Is there a soft mushy texture near the base of the stem?,1,0
+159,Are any of the tillers wilted or drooping?,1,0
+159,Do you see any black or brown spots on the stem?,0,0
+159,Are ants or other insects more active around the tiller base?,0,0
+159,Has the tiller growth slowed down recently?,0,0
+160,Are the stems (tillers) shorter than usual?,1,1
+160,Do you smell any unusual or rotten odor near the plant base?,1,1
+160,Can you easily pull the roots out of the soil?,1,1
+160,Are you noticing yellowing on the lower stems?,1,1
+160,Do the tillers appear dry or brittle?,0,1
+160,Is there a soft mushy texture near the base of the stem?,1,1
+160,Are any of the tillers wilted or drooping?,1,1
+160,Do you see any black or brown spots on the stem?,0,1
+160,Are ants or other insects more active around the tiller base?,1,1
+160,Has the tiller growth slowed down recently?,1,1
+161,Are the stems (tillers) shorter than usual?,0,0
+161,Do you smell any unusual or rotten odor near the plant base?,0,0
+161,Can you easily pull the roots out of the soil?,0,0
+161,Are you noticing yellowing on the lower stems?,0,0
+161,Do the tillers appear dry or brittle?,1,0
+161,Is there a soft mushy texture near the base of the stem?,0,0
+161,Are any of the tillers wilted or drooping?,0,0
+161,Do you see any black or brown spots on the stem?,0,0
+161,Are ants or other insects more active around the tiller base?,0,0
+161,Has the tiller growth slowed down recently?,1,0
+162,Are the stems (tillers) shorter than usual?,1,1
+162,Do you smell any unusual or rotten odor near the plant base?,1,1
+162,Can you easily pull the roots out of the soil?,1,1
+162,Are you noticing yellowing on the lower stems?,1,1
+162,Do the tillers appear dry or brittle?,1,1
+162,Is there a soft mushy texture near the base of the stem?,1,1
+162,Are any of the tillers wilted or drooping?,1,1
+162,Do you see any black or brown spots on the stem?,1,1
+162,Are ants or other insects more active around the tiller base?,1,1
+162,Has the tiller growth slowed down recently?,1,1
+163,Are the stems (tillers) shorter than usual?,1,1
+163,Do you smell any unusual or rotten odor near the plant base?,1,1
+163,Can you easily pull the roots out of the soil?,1,1
+163,Are you noticing yellowing on the lower stems?,1,1
+163,Do the tillers appear dry or brittle?,0,1
+163,Is there a soft mushy texture near the base of the stem?,1,1
+163,Are any of the tillers wilted or drooping?,1,1
+163,Do you see any black or brown spots on the stem?,1,1
+163,Are ants or other insects more active around the tiller base?,1,1
+163,Has the tiller growth slowed down recently?,1,1
+164,Are the stems (tillers) shorter than usual?,1,1
+164,Do you smell any unusual or rotten odor near the plant base?,1,1
+164,Can you easily pull the roots out of the soil?,1,1
+164,Are you noticing yellowing on the lower stems?,1,1
+164,Do the tillers appear dry or brittle?,1,1
+164,Is there a soft mushy texture near the base of the stem?,1,1
+164,Are any of the tillers wilted or drooping?,0,1
+164,Do you see any black or brown spots on the stem?,1,1
+164,Are ants or other insects more active around the tiller base?,1,1
+164,Has the tiller growth slowed down recently?,0,1
+165,Are the stems (tillers) shorter than usual?,1,1
+165,Do you smell any unusual or rotten odor near the plant base?,0,1
+165,Can you easily pull the roots out of the soil?,1,1
+165,Are you noticing yellowing on the lower stems?,1,1
+165,Do the tillers appear dry or brittle?,1,1
+165,Is there a soft mushy texture near the base of the stem?,1,1
+165,Are any of the tillers wilted or drooping?,1,1
+165,Do you see any black or brown spots on the stem?,1,1
+165,Are ants or other insects more active around the tiller base?,1,1
+165,Has the tiller growth slowed down recently?,0,1
+166,Are the stems (tillers) shorter than usual?,1,1
+166,Do you smell any unusual or rotten odor near the plant base?,0,1
+166,Can you easily pull the roots out of the soil?,0,1
+166,Are you noticing yellowing on the lower stems?,1,1
+166,Do the tillers appear dry or brittle?,0,1
+166,Is there a soft mushy texture near the base of the stem?,1,1
+166,Are any of the tillers wilted or drooping?,1,1
+166,Do you see any black or brown spots on the stem?,1,1
+166,Are ants or other insects more active around the tiller base?,1,1
+166,Has the tiller growth slowed down recently?,0,1
+167,Are the stems (tillers) shorter than usual?,0,1
+167,Do you smell any unusual or rotten odor near the plant base?,0,1
+167,Can you easily pull the roots out of the soil?,0,1
+167,Are you noticing yellowing on the lower stems?,1,1
+167,Do the tillers appear dry or brittle?,0,1
+167,Is there a soft mushy texture near the base of the stem?,0,1
+167,Are any of the tillers wilted or drooping?,0,1
+167,Do you see any black or brown spots on the stem?,1,1
+167,Are ants or other insects more active around the tiller base?,1,1
+167,Has the tiller growth slowed down recently?,0,1
+168,Are the stems (tillers) shorter than usual?,0,1
+168,Do you smell any unusual or rotten odor near the plant base?,0,1
+168,Can you easily pull the roots out of the soil?,1,1
+168,Are you noticing yellowing on the lower stems?,0,1
+168,Do the tillers appear dry or brittle?,1,1
+168,Is there a soft mushy texture near the base of the stem?,1,1
+168,Are any of the tillers wilted or drooping?,1,1
+168,Do you see any black or brown spots on the stem?,1,1
+168,Are ants or other insects more active around the tiller base?,1,1
+168,Has the tiller growth slowed down recently?,1,1
+169,Are the stems (tillers) shorter than usual?,0,0
+169,Do you smell any unusual or rotten odor near the plant base?,0,0
+169,Can you easily pull the roots out of the soil?,0,0
+169,Are you noticing yellowing on the lower stems?,1,0
+169,Do the tillers appear dry or brittle?,0,0
+169,Is there a soft mushy texture near the base of the stem?,0,0
+169,Are any of the tillers wilted or drooping?,0,0
+169,Do you see any black or brown spots on the stem?,1,0
+169,Are ants or other insects more active around the tiller base?,0,0
+169,Has the tiller growth slowed down recently?,0,0
+170,Are the stems (tillers) shorter than usual?,1,1
+170,Do you smell any unusual or rotten odor near the plant base?,1,1
+170,Can you easily pull the roots out of the soil?,1,1
+170,Are you noticing yellowing on the lower stems?,1,1
+170,Do the tillers appear dry or brittle?,1,1
+170,Is there a soft mushy texture near the base of the stem?,1,1
+170,Are any of the tillers wilted or drooping?,1,1
+170,Do you see any black or brown spots on the stem?,0,1
+170,Are ants or other insects more active around the tiller base?,1,1
+170,Has the tiller growth slowed down recently?,1,1
+171,Are the stems (tillers) shorter than usual?,1,1
+171,Do you smell any unusual or rotten odor near the plant base?,1,1
+171,Can you easily pull the roots out of the soil?,0,1
+171,Are you noticing yellowing on the lower stems?,1,1
+171,Do the tillers appear dry or brittle?,1,1
+171,Is there a soft mushy texture near the base of the stem?,1,1
+171,Are any of the tillers wilted or drooping?,1,1
+171,Do you see any black or brown spots on the stem?,1,1
+171,Are ants or other insects more active around the tiller base?,1,1
+171,Has the tiller growth slowed down recently?,1,1
+172,Are the stems (tillers) shorter than usual?,1,1
+172,Do you smell any unusual or rotten odor near the plant base?,0,1
+172,Can you easily pull the roots out of the soil?,1,1
+172,Are you noticing yellowing on the lower stems?,1,1
+172,Do the tillers appear dry or brittle?,1,1
+172,Is there a soft mushy texture near the base of the stem?,1,1
+172,Are any of the tillers wilted or drooping?,0,1
+172,Do you see any black or brown spots on the stem?,1,1
+172,Are ants or other insects more active around the tiller base?,1,1
+172,Has the tiller growth slowed down recently?,0,1
+173,Are the stems (tillers) shorter than usual?,0,0
+173,Do you smell any unusual or rotten odor near the plant base?,0,0
+173,Can you easily pull the roots out of the soil?,1,0
+173,Are you noticing yellowing on the lower stems?,0,0
+173,Do the tillers appear dry or brittle?,1,0
+173,Is there a soft mushy texture near the base of the stem?,0,0
+173,Are any of the tillers wilted or drooping?,0,0
+173,Do you see any black or brown spots on the stem?,0,0
+173,Are ants or other insects more active around the tiller base?,1,0
+173,Has the tiller growth slowed down recently?,0,0
+174,Are the stems (tillers) shorter than usual?,1,1
+174,Do you smell any unusual or rotten odor near the plant base?,1,1
+174,Can you easily pull the roots out of the soil?,1,1
+174,Are you noticing yellowing on the lower stems?,0,1
+174,Do the tillers appear dry or brittle?,1,1
+174,Is there a soft mushy texture near the base of the stem?,0,1
+174,Are any of the tillers wilted or drooping?,1,1
+174,Do you see any black or brown spots on the stem?,1,1
+174,Are ants or other insects more active around the tiller base?,1,1
+174,Has the tiller growth slowed down recently?,1,1
+175,Are the stems (tillers) shorter than usual?,0,0
+175,Do you smell any unusual or rotten odor near the plant base?,0,0
+175,Can you easily pull the roots out of the soil?,0,0
+175,Are you noticing yellowing on the lower stems?,0,0
+175,Do the tillers appear dry or brittle?,0,0
+175,Is there a soft mushy texture near the base of the stem?,1,0
+175,Are any of the tillers wilted or drooping?,0,0
+175,Do you see any black or brown spots on the stem?,0,0
+175,Are ants or other insects more active around the tiller base?,0,0
+175,Has the tiller growth slowed down recently?,0,0
+176,Are the stems (tillers) shorter than usual?,1,0
+176,Do you smell any unusual or rotten odor near the plant base?,0,0
+176,Can you easily pull the roots out of the soil?,0,0
+176,Are you noticing yellowing on the lower stems?,0,0
+176,Do the tillers appear dry or brittle?,1,0
+176,Is there a soft mushy texture near the base of the stem?,0,0
+176,Are any of the tillers wilted or drooping?,0,0
+176,Do you see any black or brown spots on the stem?,0,0
+176,Are ants or other insects more active around the tiller base?,0,0
+176,Has the tiller growth slowed down recently?,0,0
+177,Are the stems (tillers) shorter than usual?,0,0
+177,Do you smell any unusual or rotten odor near the plant base?,0,0
+177,Can you easily pull the roots out of the soil?,1,0
+177,Are you noticing yellowing on the lower stems?,0,0
+177,Do the tillers appear dry or brittle?,0,0
+177,Is there a soft mushy texture near the base of the stem?,0,0
+177,Are any of the tillers wilted or drooping?,0,0
+177,Do you see any black or brown spots on the stem?,0,0
+177,Are ants or other insects more active around the tiller base?,0,0
+177,Has the tiller growth slowed down recently?,0,0
+178,Are the stems (tillers) shorter than usual?,0,0
+178,Do you smell any unusual or rotten odor near the plant base?,1,0
+178,Can you easily pull the roots out of the soil?,1,0
+178,Are you noticing yellowing on the lower stems?,1,0
+178,Do the tillers appear dry or brittle?,0,0
+178,Is there a soft mushy texture near the base of the stem?,0,0
+178,Are any of the tillers wilted or drooping?,0,0
+178,Do you see any black or brown spots on the stem?,0,0
+178,Are ants or other insects more active around the tiller base?,0,0
+178,Has the tiller growth slowed down recently?,0,0
+179,Are the stems (tillers) shorter than usual?,1,1
+179,Do you smell any unusual or rotten odor near the plant base?,1,1
+179,Can you easily pull the roots out of the soil?,1,1
+179,Are you noticing yellowing on the lower stems?,1,1
+179,Do the tillers appear dry or brittle?,1,1
+179,Is there a soft mushy texture near the base of the stem?,1,1
+179,Are any of the tillers wilted or drooping?,0,1
+179,Do you see any black or brown spots on the stem?,1,1
+179,Are ants or other insects more active around the tiller base?,1,1
+179,Has the tiller growth slowed down recently?,1,1
+180,Are the stems (tillers) shorter than usual?,0,0
+180,Do you smell any unusual or rotten odor near the plant base?,0,0
+180,Can you easily pull the roots out of the soil?,1,0
+180,Are you noticing yellowing on the lower stems?,1,0
+180,Do the tillers appear dry or brittle?,0,0
+180,Is there a soft mushy texture near the base of the stem?,0,0
+180,Are any of the tillers wilted or drooping?,1,0
+180,Do you see any black or brown spots on the stem?,1,0
+180,Are ants or other insects more active around the tiller base?,0,0
+180,Has the tiller growth slowed down recently?,0,0
+181,Are the stems (tillers) shorter than usual?,1,1
+181,Do you smell any unusual or rotten odor near the plant base?,1,1
+181,Can you easily pull the roots out of the soil?,1,1
+181,Are you noticing yellowing on the lower stems?,1,1
+181,Do the tillers appear dry or brittle?,1,1
+181,Is there a soft mushy texture near the base of the stem?,1,1
+181,Are any of the tillers wilted or drooping?,0,1
+181,Do you see any black or brown spots on the stem?,0,1
+181,Are ants or other insects more active around the tiller base?,1,1
+181,Has the tiller growth slowed down recently?,0,1
+182,Are the stems (tillers) shorter than usual?,0,0
+182,Do you smell any unusual or rotten odor near the plant base?,0,0
+182,Can you easily pull the roots out of the soil?,0,0
+182,Are you noticing yellowing on the lower stems?,0,0
+182,Do the tillers appear dry or brittle?,1,0
+182,Is there a soft mushy texture near the base of the stem?,1,0
+182,Are any of the tillers wilted or drooping?,0,0
+182,Do you see any black or brown spots on the stem?,0,0
+182,Are ants or other insects more active around the tiller base?,0,0
+182,Has the tiller growth slowed down recently?,0,0
+183,Are the stems (tillers) shorter than usual?,0,0
+183,Do you smell any unusual or rotten odor near the plant base?,0,0
+183,Can you easily pull the roots out of the soil?,0,0
+183,Are you noticing yellowing on the lower stems?,0,0
+183,Do the tillers appear dry or brittle?,0,0
+183,Is there a soft mushy texture near the base of the stem?,0,0
+183,Are any of the tillers wilted or drooping?,1,0
+183,Do you see any black or brown spots on the stem?,0,0
+183,Are ants or other insects more active around the tiller base?,1,0
+183,Has the tiller growth slowed down recently?,0,0
+184,Are the stems (tillers) shorter than usual?,0,1
+184,Do you smell any unusual or rotten odor near the plant base?,0,1
+184,Can you easily pull the roots out of the soil?,1,1
+184,Are you noticing yellowing on the lower stems?,1,1
+184,Do the tillers appear dry or brittle?,1,1
+184,Is there a soft mushy texture near the base of the stem?,0,1
+184,Are any of the tillers wilted or drooping?,0,1
+184,Do you see any black or brown spots on the stem?,0,1
+184,Are ants or other insects more active around the tiller base?,1,1
+184,Has the tiller growth slowed down recently?,1,1
+185,Are the stems (tillers) shorter than usual?,0,1
+185,Do you smell any unusual or rotten odor near the plant base?,0,1
+185,Can you easily pull the roots out of the soil?,1,1
+185,Are you noticing yellowing on the lower stems?,1,1
+185,Do the tillers appear dry or brittle?,1,1
+185,Is there a soft mushy texture near the base of the stem?,1,1
+185,Are any of the tillers wilted or drooping?,1,1
+185,Do you see any black or brown spots on the stem?,1,1
+185,Are ants or other insects more active around the tiller base?,1,1
+185,Has the tiller growth slowed down recently?,1,1
+186,Are the stems (tillers) shorter than usual?,0,0
+186,Do you smell any unusual or rotten odor near the plant base?,1,0
+186,Can you easily pull the roots out of the soil?,1,0
+186,Are you noticing yellowing on the lower stems?,1,0
+186,Do the tillers appear dry or brittle?,0,0
+186,Is there a soft mushy texture near the base of the stem?,0,0
+186,Are any of the tillers wilted or drooping?,0,0
+186,Do you see any black or brown spots on the stem?,1,0
+186,Are ants or other insects more active around the tiller base?,0,0
+186,Has the tiller growth slowed down recently?,0,0
+187,Are the stems (tillers) shorter than usual?,0,0
+187,Do you smell any unusual or rotten odor near the plant base?,1,0
+187,Can you easily pull the roots out of the soil?,0,0
+187,Are you noticing yellowing on the lower stems?,1,0
+187,Do the tillers appear dry or brittle?,0,0
+187,Is there a soft mushy texture near the base of the stem?,1,0
+187,Are any of the tillers wilted or drooping?,0,0
+187,Do you see any black or brown spots on the stem?,0,0
+187,Are ants or other insects more active around the tiller base?,0,0
+187,Has the tiller growth slowed down recently?,0,0
+188,Are the stems (tillers) shorter than usual?,1,1
+188,Do you smell any unusual or rotten odor near the plant base?,1,1
+188,Can you easily pull the roots out of the soil?,1,1
+188,Are you noticing yellowing on the lower stems?,1,1
+188,Do the tillers appear dry or brittle?,0,1
+188,Is there a soft mushy texture near the base of the stem?,1,1
+188,Are any of the tillers wilted or drooping?,0,1
+188,Do you see any black or brown spots on the stem?,0,1
+188,Are ants or other insects more active around the tiller base?,1,1
+188,Has the tiller growth slowed down recently?,1,1
+189,Are the stems (tillers) shorter than usual?,0,0
+189,Do you smell any unusual or rotten odor near the plant base?,0,0
+189,Can you easily pull the roots out of the soil?,0,0
+189,Are you noticing yellowing on the lower stems?,0,0
+189,Do the tillers appear dry or brittle?,1,0
+189,Is there a soft mushy texture near the base of the stem?,0,0
+189,Are any of the tillers wilted or drooping?,0,0
+189,Do you see any black or brown spots on the stem?,0,0
+189,Are ants or other insects more active around the tiller base?,0,0
+189,Has the tiller growth slowed down recently?,1,0
+190,Are the stems (tillers) shorter than usual?,1,1
+190,Do you smell any unusual or rotten odor near the plant base?,1,1
+190,Can you easily pull the roots out of the soil?,1,1
+190,Are you noticing yellowing on the lower stems?,0,1
+190,Do the tillers appear dry or brittle?,1,1
+190,Is there a soft mushy texture near the base of the stem?,1,1
+190,Are any of the tillers wilted or drooping?,1,1
+190,Do you see any black or brown spots on the stem?,1,1
+190,Are ants or other insects more active around the tiller base?,1,1
+190,Has the tiller growth slowed down recently?,1,1
+191,Are the stems (tillers) shorter than usual?,1,0
+191,Do you smell any unusual or rotten odor near the plant base?,1,0
+191,Can you easily pull the roots out of the soil?,0,0
+191,Are you noticing yellowing on the lower stems?,0,0
+191,Do the tillers appear dry or brittle?,1,0
+191,Is there a soft mushy texture near the base of the stem?,0,0
+191,Are any of the tillers wilted or drooping?,0,0
+191,Do you see any black or brown spots on the stem?,1,0
+191,Are ants or other insects more active around the tiller base?,0,0
+191,Has the tiller growth slowed down recently?,0,0
+192,Are the stems (tillers) shorter than usual?,1,1
+192,Do you smell any unusual or rotten odor near the plant base?,1,1
+192,Can you easily pull the roots out of the soil?,1,1
+192,Are you noticing yellowing on the lower stems?,1,1
+192,Do the tillers appear dry or brittle?,0,1
+192,Is there a soft mushy texture near the base of the stem?,1,1
+192,Are any of the tillers wilted or drooping?,1,1
+192,Do you see any black or brown spots on the stem?,1,1
+192,Are ants or other insects more active around the tiller base?,1,1
+192,Has the tiller growth slowed down recently?,0,1
+193,Are the stems (tillers) shorter than usual?,1,1
+193,Do you smell any unusual or rotten odor near the plant base?,1,1
+193,Can you easily pull the roots out of the soil?,0,1
+193,Are you noticing yellowing on the lower stems?,1,1
+193,Do the tillers appear dry or brittle?,0,1
+193,Is there a soft mushy texture near the base of the stem?,0,1
+193,Are any of the tillers wilted or drooping?,1,1
+193,Do you see any black or brown spots on the stem?,1,1
+193,Are ants or other insects more active around the tiller base?,1,1
+193,Has the tiller growth slowed down recently?,1,1
+194,Are the stems (tillers) shorter than usual?,0,0
+194,Do you smell any unusual or rotten odor near the plant base?,1,0
+194,Can you easily pull the roots out of the soil?,0,0
+194,Are you noticing yellowing on the lower stems?,0,0
+194,Do the tillers appear dry or brittle?,0,0
+194,Is there a soft mushy texture near the base of the stem?,1,0
+194,Are any of the tillers wilted or drooping?,0,0
+194,Do you see any black or brown spots on the stem?,0,0
+194,Are ants or other insects more active around the tiller base?,1,0
+194,Has the tiller growth slowed down recently?,1,0
+195,Are the stems (tillers) shorter than usual?,1,1
+195,Do you smell any unusual or rotten odor near the plant base?,1,1
+195,Can you easily pull the roots out of the soil?,0,1
+195,Are you noticing yellowing on the lower stems?,0,1
+195,Do the tillers appear dry or brittle?,1,1
+195,Is there a soft mushy texture near the base of the stem?,1,1
+195,Are any of the tillers wilted or drooping?,1,1
+195,Do you see any black or brown spots on the stem?,1,1
+195,Are ants or other insects more active around the tiller base?,1,1
+195,Has the tiller growth slowed down recently?,1,1
+196,Are the stems (tillers) shorter than usual?,1,1
+196,Do you smell any unusual or rotten odor near the plant base?,1,1
+196,Can you easily pull the roots out of the soil?,1,1
+196,Are you noticing yellowing on the lower stems?,0,1
+196,Do the tillers appear dry or brittle?,0,1
+196,Is there a soft mushy texture near the base of the stem?,1,1
+196,Are any of the tillers wilted or drooping?,1,1
+196,Do you see any black or brown spots on the stem?,1,1
+196,Are ants or other insects more active around the tiller base?,1,1
+196,Has the tiller growth slowed down recently?,1,1
+197,Are the stems (tillers) shorter than usual?,0,0
+197,Do you smell any unusual or rotten odor near the plant base?,0,0
+197,Can you easily pull the roots out of the soil?,1,0
+197,Are you noticing yellowing on the lower stems?,0,0
+197,Do the tillers appear dry or brittle?,0,0
+197,Is there a soft mushy texture near the base of the stem?,0,0
+197,Are any of the tillers wilted or drooping?,0,0
+197,Do you see any black or brown spots on the stem?,0,0
+197,Are ants or other insects more active around the tiller base?,0,0
+197,Has the tiller growth slowed down recently?,1,0
+198,Are the stems (tillers) shorter than usual?,0,0
+198,Do you smell any unusual or rotten odor near the plant base?,1,0
+198,Can you easily pull the roots out of the soil?,1,0
+198,Are you noticing yellowing on the lower stems?,1,0
+198,Do the tillers appear dry or brittle?,0,0
+198,Is there a soft mushy texture near the base of the stem?,0,0
+198,Are any of the tillers wilted or drooping?,1,0
+198,Do you see any black or brown spots on the stem?,0,0
+198,Are ants or other insects more active around the tiller base?,0,0
+198,Has the tiller growth slowed down recently?,0,0
+199,Are the stems (tillers) shorter than usual?,0,1
+199,Do you smell any unusual or rotten odor near the plant base?,1,1
+199,Can you easily pull the roots out of the soil?,1,1
+199,Are you noticing yellowing on the lower stems?,1,1
+199,Do the tillers appear dry or brittle?,0,1
+199,Is there a soft mushy texture near the base of the stem?,1,1
+199,Are any of the tillers wilted or drooping?,1,1
+199,Do you see any black or brown spots on the stem?,1,1
+199,Are ants or other insects more active around the tiller base?,1,1
+199,Has the tiller growth slowed down recently?,1,1
+200,Are the stems (tillers) shorter than usual?,1,1
+200,Do you smell any unusual or rotten odor near the plant base?,1,1
+200,Can you easily pull the roots out of the soil?,0,1
+200,Are you noticing yellowing on the lower stems?,0,1
+200,Do the tillers appear dry or brittle?,0,1
+200,Is there a soft mushy texture near the base of the stem?,1,1
+200,Are any of the tillers wilted or drooping?,1,1
+200,Do you see any black or brown spots on the stem?,1,1
+200,Are ants or other insects more active around the tiller base?,1,1
+200,Has the tiller growth slowed down recently?,1,1
