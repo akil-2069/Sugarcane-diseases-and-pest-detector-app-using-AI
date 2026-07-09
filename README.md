@@ -1,4 +1,4 @@
-# Sugarcane Diseases and Pest Detector — AgriThon 2.0
+# Sugarcane Diseases and Pest Management using Deep Learning
 
 A multimodal AI pipeline that detects **tiller borer infestation** and **yellow leaf disease** in sugarcane crops by combining computer vision (YOLOv8) with a tabular symptom-based classifier (TabNet), fusing both signals into a single final diagnosis.
 
